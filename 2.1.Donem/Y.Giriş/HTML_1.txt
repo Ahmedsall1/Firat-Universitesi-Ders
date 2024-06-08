@@ -1,0 +1,80 @@
+Kod		Açıklama				XHTML
+
+<!--...-->		Açıklama eklemek.			Var
+<!DOCTYPE> 	Dosya türünü yazmak.		Var
+<a>		Bağlantı vermek.			Var
+<abbr>		Kısaltma.				Var
+<acronym>	Kısaltmayı açıklamak.		Var
+<address>		Adres vermek.			Var
+<area>		Resim üzerinde alan belirtmek.		Var
+<b>		Kalın yazmak.			Var
+<base>		Tüm bağlantılar için ana yolu bildirme.	Var
+<bdo>		Yazı yönünü bildirme.		Var
+<big>		Büyük yazmak.			Var
+<blockquote>	Alıntı yapmak.			Var
+<body>		İçeriğe başlangıcı bildirmek.		Var
+<br>		Satır atlamak.			Var
+<button>		Buton eklemek.			Var
+<caption>		Tablo başlığı belirtme.		Var
+<center>		Hizayı ortalar.			Yok
+<cite>		Alıntı yapmak.			Var
+<code>		Bilgisayar kodu şeklinde yazmak.	Var
+<col>		Tablo sütununu belirtme.		Var
+<colgroup>	Tablo sütun gruplarını belirtme.		Var
+<dd>		Açıklama eklemek.			Var
+<del>		Üstü çizili yazı yazmak.		Var
+<div>		Dosyada alan belirtme.		Var
+<dfn>		Bir terim açıklamak.			Var
+<dl>		Terimler listesi.			Var
+<dt>		Terim açıklamak.			Var
+<em>		Vurgulu yazı.			Var
+<fieldset>		Alan belirleme.			Var
+<form>		Form kullanma.			Var
+<frame>		Alt pencere açmak (frame)		Var
+<frameset>	Alt pencereleri tanımlamaya başlamak.	Var
+<h1> to <h6>	Başlık (1-6 arası)			Var
+<head>		Dosya bilgilerini açıklama bölümü.	Var
+<hr>		Yatay çizgi çekmek.			Var
+<html>		HTML'ye başlamak.			Var
+<i>		Sağa yatık yazmak.			Var
+<img>		Resim eklemek.			Var
+<input>		Form nesnesi eklemek.		Var
+<ins>		Vurgu yapmak.			Var
+<kbd>		Kelime yazdırma.			Var
+<label>		Etiket belirleme.			Var
+<legend>		Bir alan için başlık belirleme.		Var
+<li>		Listeleme.				Var
+<link>		Dosyaya bağlantı verme.		Var
+<map>		Resim tanımlama.			Var
+<meta>		Dosya bilgisi tanımlama.		Var
+<noscript>		Script desteği yoksa yapılacaklar.	Var
+<object>		Bir obje ekleme (flash vs.)		Var
+<ol>		Numaralandırılmış liste ekleme.		Var
+<optgroup>	Seçim grubu.			Var
+<option>		Sürükle-bırak seçim listesi.		Var
+<p>		Paragraf.				Var
+<param>		Parametre bildirme.			Var
+<pre>		Formatlı yazı ekleme.			Var
+<q>		Küçük alıntılar için.			Var
+<samp>		Bilgisayar yazı tipi kullanma.		Var
+<script>		Script tanımlama.			Var
+<select>		Seçim kutusu tanımlama.		Var
+<small>		Küçük yazma.			Var
+<span>		Bir alan tanımlaması.			Var
+<strong>		Vurgu yapmak.			Var
+<style>		Stil belirleme.			Var
+<sub>		Normalden aşağı yazı.		Var
+<sup>		Üs yazmak.			Var
+<table>		Tabloya başlamak.			Var
+<tbody>		Tablo başlangıcı.			Var
+<td>		Sütun belirleme.			Var
+<textarea>		Metin kutusu.			Var
+<tfoot>		Tablo altlığı.			Var
+<th>		Tablo başlığı.			Var
+<thead>		Tablo başlığı.			Var
+<title>		HTML Dosyası başlığı.		Var
+<tr>		Satır belirleme (tablo).		Var
+<tt>		TT Yazı.				Var
+<ul>		Madde işaretli liste.			Var
+<var>		Değer.				Var
+<xmp>		PRE komutunun aynısı.		Yok

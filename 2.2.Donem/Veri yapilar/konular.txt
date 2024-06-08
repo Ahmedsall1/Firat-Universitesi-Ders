@@ -1,0 +1,14 @@
+1. Veri yapılarına giriş, temel veri tipleri ve veri kavramı
+2. Zaman ve yer karmaşıklıkları (asimptotik notasyonlar)
+3. Dizi ve liste veri yapısı, bağlı liste, tek ve çift yönlü bağlı listeler ve uygulamaları
+4. Yığıt veri yapısı ve uygulamaları
+5. Kuyruk veri yapısı ve uygulamaları
+6. Özyineleme kavramı (Recursion)
+7. Hash yapısı, özellikleri ve uygulamaları
+8. Öncelikli kuyruk ve Heap ağacı, ARA SINAV
+9. Ağaç veri yapısı ve uygulamaları
+10. İkili arama ağaçları ve uygulamaları, dengeli ağaçlar
+11. Sıralama yöntemleri (Insertion, Selection, Bubble
+12. Sıralama yöntemleri (Merge, Quick, Heap, Radix Sort)
+13. Açgözlü algoritmalar, çizge algoritmaları (BFS, DFS)
+14. En kısa yol algoritması (Dijkstra)

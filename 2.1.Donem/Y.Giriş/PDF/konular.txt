@@ -1,0 +1,17 @@
+1. Bilgisayar bilimleri, temel kavramlar. Bilgisayar donanımı. Bilgisayar yazılımı.
+2. Yazılım Mühendisliğine Giriş. Çevik yazılım ve modern yazılım geliştirme yaklaşımları.
+3. Boole Cebrinin Esasları. Lojik Kapılar ve Doğruluk Tabloları. Lojik İfadelerin Sadeleştirilmesi/İndirgenmesi.
+Karnaugh Diyagramlar.
+4. Boole Cebrinin Esasları. Lojik Kapılar ve Doğruluk Tabloları. Lojik İfadelerin Sadeleştirilmesi/İndirgenmesi.
+Karnaugh Diyagramlar.
+5. Algoritma Geliştirme. Algoritmaların İfade Edilme Şekilleri. Akış Şemaları. Sözde Kodlar.
+6. Programlama Dilleri. Program Geliştirme Ortamları.
+7. İşletim Sistemleri ve Temel Özellikleri.
+8. Ara Sınav.
+9. Bilgisayar Ağları ve İnternet.
+10. Sayı ve Kodlama Sistemleri.
+4 / 22
+11. Veri Yapıları.
+12. Veri Tabanı Yönetimi ve SQL.
+13. Yazılım Modelleme Dilleri ve UML.
+14. Yazılım Modelleme Dilleri ve UML

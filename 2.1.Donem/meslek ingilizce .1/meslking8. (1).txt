@@ -1,0 +1,182 @@
+ - Initially, this interruption mechanism was used mainly in industrial control applica- tions and peripherals connection
++ Başlangıçta, bu kesinti mekanizması esas olarak endüstriyel kontrol uygulamalarında ve çevre birimleri bağlantısında kullanıldı
++	في البداية ، تم استخدام آلية الانقطاع هذه بشكل أساسي في تطبيقات التحكم الصناعي وتوصيل الأجهزة الطرفية
+
+- Later, in the first half of 1960s, it was thought that many programs can use simultaneously the same processor (CPU) with the help of such a mechanism
++ Daha sonra 1960'ların ilk yarısında birçok programın böyle bir mekanizma yardımıyla aynı işlemciyi (CPU) aynı anda kullanabileceği düşünülmüştür.
++	لاحقًا ، في النصف الأول من الستينيات ، كان يُعتقد أن العديد من البرامج يمكنها استخدام نفس المعالج (CPU) في وقت واحد بمساعدة مثل هذه الآلية
+
+- Thus, if one of the programs has to wait an I/O operation, an- other program can use the processor and if that program also wait an I/O operation,
++ Böylece, programlardan biri bir I/O işlemini beklemek zorunda kalırsa, başka bir program işlemciyi kullanabilir ve o program da bir I/O işlemini beklerse,
++ وبالتالي ، إذا كان على أحد البرامج انتظار عملية الإدخال / الإخراج ، فيمكن لبرنامج آخر استخدام المعالج وإذا انتظر هذا البرنامج أيضًا عملية الإدخال / الإخراج ،a
+
+- the processor can be used by another program.
++ işlemci başka bir program tarafından kullanılabilir.
++ يمكن استخدام المعالج بواسطة برنامج آخر.
+
+- Using computer systems in such a way is called multi-programming today.
++ Bilgisayar sistemlerini bu şekilde kullanmak günümüzde çoklu programlama olarak adlandırılmaktadır.
++ إن استخدام أنظمة الكمبيوتر بهذه الطريقة يسمى اليوم البرمجة المتعددة.
+
+- Multi-programming methods are used in other ways.
++ Çoklu programlama yöntemleri başka şekillerde kullanılır.
++ تستخدم طرق البرمجة المتعددة بطرق أخرى.
+
+- Many programs may use the same processor for specific periods.
++ Birçok program belirli süreler boyunca aynı işlemciyi kullanabilir.
++ قد تستخدم العديد من البرامج نفس المعالج لفترات محددة.
+
+-  In this way, it is possible to give the impression that all the programs installed in the system currently run in parallel.
++ Bu sayede sistemde kurulu olan tüm programların halihazırda paralel olarak çalıştığı izlenimi vermek mümkündür.
++ بهذه الطريقة ، يمكن إعطاء الانطباع بأن جميع البرامج المثبتة في النظام تعمل حاليًا بالتوازي.
+
+- Especially if each of these programs is close the system or associated with the remote terminals,
++ Özellikle bu programların her biri sisteme yakınsa veya uzak terminallerle ilişkiliyse,
++ خاصة إذا كان كل من هذه البرامج مغلقًا للنظام أو مرتبطًا بالمطاريف البعيدة ،
+
+- terminal users can use the system as though they are using the system alone.
++ terminal kullanıcıları sistemi tek başına kullanıyormuş gibi kullanabilirler.
++ يمكن لمستخدمي المحطة الطرفية استخدام النظام كما لو كانوا يستخدمون النظام بمفردهم.
+
+- Systems in which this way of work is applied are called "multi-access" and the way of work is called interactive or time sharing.
++ Bu çalışma şeklinin uygulandığı sistemlere "çoklu erişim", çalışma şekline ise etkileşimli veya zaman paylaşımlı denir.
++ الأنظمة التي يتم فيها تطبيق طريقة العمل هذه تسمى "الوصول المتعدد" وتسمى طريقة العمل التفاعلية أو مشاركة الوقت.
+
+- Operating systems can be classified in several ways.
++ İşletim sistemleri çeşitli şekillerde sınıflandırılabilir.
++ يمكن تصنيف أنظمة التشغيل بعدة طرق.
+
+- Working environment that they provide to users
++ Kullanıcılara sağladıkları çalışma ortamı
++ بيئة العمل التي يقدمونها للمستخدمين
+ 
+-  The way of access to the system
++ Sisteme giriş yolu
++ طريقة الوصول إلى النظام
+
+- Approaches followed in architecture
++ Mimaride izlenen yaklaşımlar
++ النهج المتبع في العمارة
+
+- can be examined indirectly dependent on each other in three dimensions.
++ dolaylı olarak birbirine bağlı olarak üç boyutta incelenebilir.
++ يمكن فحصها بشكل غير مباشر اعتمادًا على بعضها البعض في ثلاثة أبعاد.
+
+- An operating system can carry one of the first two-dimensional features,
++ Bir işletim sistemi ilk iki boyutlu özelliklerden birini taşıyabilir,
++ يمكن لنظام التشغيل أن يحمل إحدى السمات ثنائية الأبعاد الأولى ،
+
+- or a few of them to- gether that do not create a conflict.
++ ya da birkaçı birlikte bir çatışma yaratmaz.
++ أو عدد قليل منهم لا يتسبب في حدوث تعارض.
+
+- If an operating system provides the possibility of setting up only one display system,
++ Bir işletim sistemi yalnızca bir görüntüleme sistemi kurma olanağı sağlıyorsa,
++ إذا كان نظام التشغيل يوفر إمكانية إعداد نظام عرض واحد فقط ،
+
+- this system works in "mono-programming" order;
++ bu sistem "tek programlama" düzeninde çalışır;
++ يعمل هذا النظام بترتيب "البرمجة الأحادية" ؛
+
+- if more than one display system can be installed simultaneously,
++ aynı anda birden fazla görüntüleme sistemi kurulabiliyorsa,
++ إذا كان من الممكن تثبيت أكثر من نظام عرض واحد في وقت واحد ،
+ 
+- it is possible to say that system works in "multipro- gramming" order
++ sistemin "çoklu programlama" düzeninde çalıştığını söylemek mümkündür.
++ من الممكن أن نقول أن النظام يعمل بترتيب "متعدد القواعد"
+
+- If display systems working together intersect for resources other than the processor,
++ Birlikte çalışan görüntüleme sistemleri, işlemci dışındaki kaynaklar için kesişiyorsa,
++ إذا تقاطعت أنظمة العرض التي تعمل معًا من أجل موارد أخرى غير المعالج ،
+ 
+- operating system allows simultaneous resource sharing.
++ işletim sistemi eş zamanlı kaynak paylaşımına izin verir.
++ يسمح نظام التشغيل بمشاركة الموارد بشكل متزامن.
+
+
+
+1. interruption mechanism
+	kesinti mekanizması
+	آلية الانقطاع
+
+2.industrial control applications
+	endüstriyel kontrol uygulamaları
+	تطبيقات التحكم الصناعي
+
+3.peripherals connection
+	çevre birimleri bağlantısı
+	اتصال الأجهزة الطرفية
+
+4.simultaneously
+	aynı anda
+	في الوقت نفسه
+
+5.operation
+	işlem
+	العملية
+
+6.specific periods
+	belirli dönemler
+	فترات محددة
+
+7.impression
+	etki
+	انطباع
+
+8.associated
+	birleşmiş
+	مرتبطة
+
+9.interactive
+	etkileşimli
+	تفاعلي
+
+10.Operating Systems
+	İşletim sistemleri
+	أنظمة التشغيل
+
+11.classified
+	sınıflandırılmış
+	مصنف.
+
+12.environment
+	çevre
+	بيئة
+
+13.provide
+	sağlamak
+	تزود
+
+14.Approaches
+	Yaklaşımlar
+	اقتراب
+
+15.architecture 
+	mimari\yapı
+	أسلوب بناء
+
+16.examined indirectly
+	dolaylı olarak incelendi
+	فحص بشكل غير مباشر
+
+17.dimensions
+	boyutlar
+	أبعاد
+
+18.conflict
+	anlaşmazlık
+	نزاع
+
+19.intersect
+	kesişmek
+	تتقاطع
+
+20.resources
+	kaynaklar
+	مصادر
+
+
+	
+	
+	

@@ -1,0 +1,45 @@
+1.Ebeveyn fonksiyonlarının çocuk fonksiyonlarından farklı 	davranmasına çok biçimcilik denir.
+
+
+4.Numpy var
+
+5.UML var
+
+https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c
+
+UML, bir sistemin tasarımını görselleştirmek için yazılım mühendisliği alanında genel amaçlı modelleme dilidir. Yazılı bir dil değildir. Farklı amaçlar için kategorilere ayrılmış olsa da, genel itibariyle modelleme için kullanılır. 1995 yılında, yazılımlarda bir standart yaklaşım oluşturmak için geliştirilmiştir. Yani UML diyagramları ile önceden modellediğiniz bir yazılım projesini, modele uygun olacak şekilde herhangi bir dil ile geliştirebiliyorsunuz. Bu da yazılım mühendisleri arasında ortak bir dil oluşturuyor. İlk çıktığı zamandan beri sürekli geliştirme göstererek, birçok farklı dala ayrılmıştır. Aşağıda UML diyagramlarının kategorilerini görebiliyoruz. Bizim bu yazımızda bahsedeceğimiz Class Diagram, Structure Diagram altında bulunmakta. Structure Diagrams(Yapısal Diyagramlar), modellenmekte olan sistemde bulunması gerekenler için kullanılır.
+
+
+7.Regex deyimi hoca verir. Buna uyan bir tane alta yazınız derd
+
+8.
+
+Nesne Yönelimli Programlamanın Özellikleri Nelerdir?
+{
+  +Abstraction	
+	Abstraction (from the Latin abs, meaning away from and trahere , 	meaning to draw) is the   process of taking away or removing 	characteristics from something in order to reduce it to a set of 	  essential characteristics
+
+
+  	التجريد (من اللاتينية abs ، بمعنى الابتعاد عن والتراير ، بمعنى الرسم) هو عملية إزالة أو 	إزالة الخصائص من شيء ما من   أجل اختزاله إلى مجموعة من الخصائص الأساسية  	
+	
+
+	Soyutlama (Latince abs, uzaklaşmak anlamına gelir ve trahere, 			çizmek   anlamına gelir), bir şeyi temel özelliklere indirgemek için bir 	şeyden özellikleri alma veya çıkarma işlemidir.
+
+
+  +Encapsulation
+	Kapsülleme, bir nesnenin bazı bileşenlerine doğrudan erişimi 	kısıtlamanın bir yoludur, böylece   kullanıcılar belirli bir nesnenin 	tüm değişkenleri için durum değerlerine erişemez. Kapsülleme, hem 	  veri üyelerini hem de örneklenmiş bir sınıf veya nesneyle ilişkili 	veri işlevlerini veya yöntemlerini   gizlemek için kullanılabilir.
+	التغليف هو طريقة لتقييد الوصول المباشر إلى بعض مكونات كائن ما ، لذلك لا يمكن للمستخدمين الوصول إلى قيم الحالة لجميع متغيرات كائن معين. يمكن استخدام التغليف لإخفاء أعضاء البيانات ووظائف البيانات أو الأساليب المرتبطة بفئة أو كائن تم إنشاؤه.
+
+
++Polimorfizm
+
+تعدد أشكال في الأحياء ، يظهر أكثر من نمط واحد. تظهر الصورة التي تظهر في الصورة تظهر نفسها في صورة تظهر في صورة انت التجمع
+
+Polimorfizm Biyolojide birden fazla örüntü görülür. Resimde görünen görüntü, montajda görünen bir resimde kendini gösterir.
+
+
++Generalization 
+Programlamada genelleme, nesne yönelimli programlamada bir kavramdır, bir veya daha fazla belirli ve somut sınıftan daha genel ve soyut bir sınıf oluşturmayı ifade eder. Bu, kodun yeniden kullanılmasına izin vererek aynı kodun farklı nesne türleri için kullanılmasını mümkün kılar. Genel sınıf, belirli sınıflar için bir şablon görevi görür, tüm sınıflar için ortak olan özellikleri ve yöntemleri tanımlar.
+}
+9.
+https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c

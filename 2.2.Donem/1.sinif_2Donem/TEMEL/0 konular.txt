@@ -1,0 +1,14 @@
+1. Yazılım Mühendisliğinin Temelleri. Temel Kavramlar.
+2. Yazılım Yaşam Döngüsü Kavramı. Planlama Çözümleme Tasarım Gerçekleştirme Bakım.
+3. Yazılım Süreç Modelleri.
+4. Geleneksel Modeller ve Bağlı Yaklaşımlar.
+5. Çevik Yazılım Metodolojisi ve Çevik Yazılım Şemsiyesi
+6. Proje Kavramı. Proje özellikleri ve Proje Yönetimi
+7. Yazılım Planlama
+8. Ara Sınav
+9. Yazılım Çözümleme
+10. Yazılım Tasarım
+11. Yazılım Gerçekleştirme
+12. Yazılım Test ve Bakımı
+13. Yazılım Doğrulama ve Geçerleme.
+14. Yazılımda Metodoloji Kavramı, Standartlar, Risk yönetimi, Kalite Unsurları

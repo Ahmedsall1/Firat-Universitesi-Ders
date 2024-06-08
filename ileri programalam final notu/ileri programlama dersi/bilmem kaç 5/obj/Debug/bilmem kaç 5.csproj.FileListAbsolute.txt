@@ -1,0 +1,10 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\bin\Debug\bilmem kaç 5.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\bin\Debug\bilmem kaç 5.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\bin\Debug\bilmem kaç 5.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem kaç 5.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem_kaç_5.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem_kaç_5.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem kaç 5.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem kaç 5.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem kaç 5.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\bilmem kaç 5\obj\Debug\bilmem kaç 5.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\bin\Debug\ders_3.hafta._1.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\bin\Debug\ders_3.hafta._1.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\bin\Debug\ders_3.hafta._1.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders 3.hafta .1.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders_3.hafta._1.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders_3.hafta._1.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders 3.hafta .1.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders 3.hafta .1.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders_3.hafta._1.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders 3.hafta .1\ders 3.hafta .1\obj\Debug\ders_3.hafta._1.pdb

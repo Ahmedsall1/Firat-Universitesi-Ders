@@ -1,0 +1,11 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\bin\Debug\BİLMEM KAÇ 6.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\bin\Debug\BİLMEM KAÇ 6.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\bin\Debug\BİLMEM KAÇ 6.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM KAÇ 6.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM_KAÇ_6.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM_KAÇ_6.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM KAÇ 6.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM KAÇ 6.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM KAÇ 6.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM KAÇ 6.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\BİLMEM KAÇ 6\obj\Debug\BİLMEM_KAÇ_6.Form2.resources

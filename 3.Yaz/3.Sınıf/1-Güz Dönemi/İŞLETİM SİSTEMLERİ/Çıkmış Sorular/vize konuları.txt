@@ -1,0 +1,58 @@
+                                               Merhaba arkadaşlar vize sınavı yazılı olarak yapılacaktır. Sorular sadece aşağıdaki başlıklardan gelecektir.
+Vize sınavı ilk 5 dersten oluşacaktır. CPU Scheduling bölümü vize sınavına dahil değildir.
+
+1.HAFTA
+
+İşletim sistemi ne iş yapar?, 
+Bilgisayar sistemi organizasyonu, 
+Bilgisayar sistemi mimarisi, 
+İşletim sistemi yapısı, 
+İşletim sistemi işlemleri, 
+Process yönetimi, 
+Memory yönetimi.
+
+2.HAFTA
+İşletim sistemi servisleri, 
+Kullanıcı ve işletim sistemi arayüzü, 
+Sistem çağrıları, 
+Sistem çağrı türleri, 
+Sistem programları, 
+İşletim sistemi tasarımı ve gerçekleştirimi.
+
+3.HAFTA
+Process kavramı, 
+Process planlama, 
+Process işlemleri, 
+Process’ler arası iletişim.
+
+(Process state/ process durumları şeması)
+
+4.HAFTA
+Thread’ler, 
+Thread’lerin sağladığı faydalar, 
+Multicore programlama, 
+Multicore programlamanın zorlukları, 
+Paralel çalışma türleri, 
+Multithreading modelleri.
+
+(Process ile tread arasındaki farklar nelerdir)
+
+--Thread process’lerin belirli bir segmentini işaret eder
+--Bir thread’in oluşturulması ve sonlandırılması process’lere göre daha kısa sürer
+--Process’ler birbirinden izole bir şekilde çalışırken, thread’ler aynı bellek kaynağını paylaşır
+--Process’ler, thread’lere göre daha fazla kaynak tüketimi yaparlar
+--Bir process bloklanırsa başka bir process işlemini gerçekleştiremez. 
+Öncelikle ilk process’in işini bitirmesini bekler. Ancak bu durum thread’lerde geçerli değildir. 
+Bir thread başka bir thread bloklansa bile çalışabilir.
+--Ölçeklenebilirlik açısından thread’ler daha avantajlıdır. 
+Process’lerin ölçeklendirilmesi için çok işlemcili yapı gerekmektedir.
+Bu da processler’de ölçeklendirmenin donanımsal olarak yapıldığını bizlere gösteriyor. 
+thread’lerde ise çok çekirdekli işlemcilerde birden fazla thread farklı çekirdeklerde çalıştırılabilir.
+
+5.HAFTA
+Process senkronizasyonu, 
+Kritik bölüm problemi, 
+Peterson çözümü, 
+Senkronizasyon donanımı, 
+Mutex kilitlenmeleri, 
+Semaforlar

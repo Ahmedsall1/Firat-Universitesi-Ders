@@ -1,0 +1,16 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.deps.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.runtimeconfig.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\ref\hafta 5 ders 3.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\bin\Debug\net5.0\hafta 5 ders 3.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.AssemblyInfo.cs
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\ref\hafta 5 ders 3.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 5 ders 3\hafta 5 ders 3\obj\Debug\net5.0\hafta 5 ders 3.genruntimeconfig.cache

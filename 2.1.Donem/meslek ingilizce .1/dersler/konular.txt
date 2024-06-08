@@ -1,0 +1,14 @@
+1. Introduction to Basic Concepts
+2. Boolean Algebra
+3. Algorithms and Flowcharts
+4. Programming Languages
+5. Operating System (Basic Concepts and Types)
+6. Microprocessors and Assembly Programming
+7. Computer Networks and the Internet
+8. Computer Networks and theInternet,Midterm
+9. Number System
+10. Software Engineering
+11. Software Engineering
+12. Data Structures and Data Models
+13. Database Management and SQL
+14. Computer Hardware Engineering

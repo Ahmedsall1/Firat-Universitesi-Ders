@@ -1,0 +1,139 @@
+  Kuantum Hesaplama: Tanımı, Nasıl Kullanıldığı ve Örnek
+
+ Kuantum Hesaplama Nedir?
+
+ Kuantum hesaplama, kuantum teorisinin ilkelerini kullanan bir bilgisayar bilimi alanıdır. Kuantum teorisi, enerjinin ve malzemenin atomik ve atom altı seviyelerdeki davranışını açıklar.
+ Kuantum hesaplama, elektronlar veya fotonlar gibi atom altı parçacıkları kullanır. Kuantum bitleri veya kubitler, bu parçacıkların aynı anda birden fazla durumda (yani 1 ve 0) var olmasına izin verir.
+
+ Teorik olarak, bağlantılı kübitler "aksi takdirde milyonlarca yıl sürebilecek hesaplamaları yapmak için dalga benzeri kuantum durumları arasındaki etkileşimden yararlanabilir."
+
+ Günümüzde klasik bilgisayarlar, bilgiyi bitler halinde kodlamak için ikili bir şekilde bir elektriksel impuls akışı (1 ve 0) kullanmaktadır. Bu, kuantum hesaplamaya kıyasla işleme yeteneklerini kısıtlar.
+
+  ANAHTAR PAKETLER
+
+- Kuantum hesaplama, yeni hesaplama yolları oluşturmak için kuantum fiziğindeki fenomenleri kullanır.
+- Kuantum hesaplama kübitleri içerir. 
+- 0 veya 1 olabilen normal bir bilgisayar bitinin aksine, bir kübit çok boyutlu bir durumda bulunabilir.
+
+  Kuantum Hesaplamayı Anlama
+
+ Kuantum hesaplama alanı 1980'lerde ortaya çıktı. Bazı hesaplama problemlerinin, kuantum algoritmaları ile klasik muadillerinden daha verimli bir şekilde ele alınabileceği keşfedildi.
+
+ Kuantum hesaplama, çok sayıda olasılığı gözden geçirme ve karmaşık sorunlara ve zorluklara potansiyel çözümler çıkarma yeteneğine sahiptir. Klasik bilgisayarların bilgiyi 0'lı veya 1'li bitler olarak depoladığı yerlerde, kuantum bilgisayarlar kübitleri kullanır. Kubitler, 0 ve 1'i çok boyutlu bir şekilde meşgul eden kuantum bir durumda bilgi taşırlar.
+
+ Kuantum hesaplama, çok sayıda olasılığı gözden geçirme ve karmaşık sorunlara ve zorluklara potansiyel çözümler çıkarma yeteneğine sahiptir. Klasik bilgisayarların bilgiyi 0'lı veya 1'li bitler olarak depoladığı yerlerde, kuantum bilgisayarlar kübitleri kullanır. Kubitler, 0 ve 1'i çok boyutlu bir şekilde meşgul eden kuantum bir durumda bilgi taşırlar.
+
+
+ Kuantum hesaplamanın kullanımları ve faydaları
+
+ Kuantum bilgi işlem, güvenlik, finans, askeri işler ve zeka, ilaç tasarımı ve keşfi, havacılık tasarımı (nükleer füzyon), polimer tasarımı, makine öğrenimi, yapay zeka (AI), büyük veri araması ve dijital alanlarına büyük katkıda bulunabilir. üretme.
+
+ Kuantum bilgisayarlar bilginin güvenli paylaşımını geliştirmek için kullanılabilir. Veya radarları ve füzeleri ve uçakları tespit etme yeteneklerini iyileştirmek. Kuantum hesaplamanın yardımcı olması beklenen bir başka alan da çevre ve suyu kimyasal sensörlerle temiz tutmaktır.
+
+  İşte kuantum hesaplamanın bazı potansiyel faydaları:
+
+- Finansal kurumlar, perakende ve kurumsal müşteriler için daha etkili ve verimli yatırım portföyleri tasarlamak için kuantum hesaplamayı kullanabilir. Daha iyi ticaret simülatörleri oluşturmaya ve dolandırıcılık tespitini geliştirmeye odaklanabilirler.
+
+- Sağlık endüstrisi, yeni ilaçlar ve genetik olarak hedeflenmiş tıbbi bakım geliştirmek için kuantum hesaplamayı kullanabilir. Ayrıca daha gelişmiş DNA araştırmalarına da güç verebilir.
+
+- Daha güçlü çevrimiçi güvenlik için, kuantum hesaplama daha iyi veri şifrelemesi ve sistemdeki davetsiz misafirleri tespit etmek için ışık sinyallerini kullanmanın yollarını tasarlamaya yardımcı olabilir.
+
+- Kuantum hesaplama, daha verimli, daha güvenli uçak ve trafik planlama sistemleri tasarlamak için kullanılabilir.
+
+ Gartner tarafından yapılan araştırmaya göre, 2025 yılına kadar kuantum hesaplama konusunda girişimler oluşturmayı planlayan büyük şirketlerin yüzdesi.
+
+    Kuantum Hesaplamanın Özellikleri
+
+ Süperpozisyon ve dolaşıklık, kuantum hesaplamanın dayandığı kuantum fiziğinin iki özelliğidir. Kuantum bilgisayarların, geleneksel bilgisayarlardan katlanarak daha yüksek hızlarda ve çok daha az enerji tüketimiyle işlemleri gerçekleştirmelerini sağlarlar.
+
+  Süperpozisyon
+
+ IBM'e göre, dikkat çekici olan şeyden ziyade bir kübitin neler yapabileceğidir. Bir kübit, içerdiği kuantum bilgisini bir süperpozisyon durumuna yerleştirir. Bu, kübitin tüm olası konfigürasyonlarının bir kombinasyonunu ifade eder. "Süperpozisyondaki kübit grupları karmaşık, çok boyutlu hesaplamalı uzaylar yaratabilir. Karmaşık problemler bu alanlarda yeni yollarla temsil edilebilir."
+
+  Karmaşıklık
+
+ Dolanıklık, kuantum bilgi işlem gücünün ayrılmaz bir parçasıdır. Kubit çiftleri dolaşık hale gelmek için yapılabilir. Bu, iki kübitin daha sonra tek bir durumda var olduğu anlamına gelir. Böyle bir durumda, bir kübitin değiştirilmesi diğerini öngörülebilir bir şekilde doğrudan etkiler.
+
+ Kuantum algoritmaları, karmaşık problemleri çözmek için bu ilişkiden yararlanmak üzere tasarlanmıştır. Klasik bir bilgisayardaki bit sayısını iki katına çıkarmak işlem gücünü iki katına çıkarırken, kübit eklemek bilgi işlem gücü ve yeteneğinde üstel bir artışa neden olur.
+
+  Tutarsızlık
+
+ Tutarsızlık, kübitlerin kuantum davranışı bozulduğunda ortaya çıkar. Kuantum durumu, titreşimler veya sıcaklık değişiklikleri ile anında bozulabilir. Bu, kübitlerin üst üste binmeden düşmesine ve bilgi işlemde hataların ortaya çıkmasına neden olabilir. Kubitlerin, örneğin aşırı soğutulmuş buzdolapları, yalıtım ve vakum odaları tarafından bu tür parazitlerden korunması önemlidir.
+
+ Kuantum Hesaplamanın Sınırlamaları
+
+ Kuantum hesaplama, birçok endüstride gelişmeler ve problem çözme için muazzam bir potansiyel sunmaktadır. Ancak, şu anda, sınırlamaları vardır.
+
+- Tutarsızlık veya çürüme, kübit ortamındaki en ufak bir rahatsızlıktan kaynaklanabilir. Bu, hesaplamaların veya hataların çökmesine neden olur. Yukarıda belirtildiği gibi, bir kuantum bilgisayar, hesaplama aşamasında tüm dış parazitlerden korunmalıdır.
+
+- Bilgi işlem aşamasında hata düzeltme mükemmelleştirilmemiştir. Bu, hesaplamaları potansiyel olarak güvenilmez hale getirir. Kubitler dijital veri bitleri olmadığından, klasik bilgisayarlar tarafından kullanılan geleneksel hata düzeltme çözümlerinden yararlanamazlar.
+
+- Hesaplama sonuçlarının alınması verileri bozabilir. Ölçüm eyleminin kuantum durumunun doğru cevaba dönüşmesine neden olmasını sağlayan belirli bir veritabanı arama algoritması gibi gelişmeler umut vaat ediyor.
+
+- Güvenlik ve kuantum kriptografisi henüz tam olarak geliştirilmemiştir.
+Kubit eksikliği, kuantum bilgisayarların etkili kullanım potansiyellerine kadar yaşamalarını önler. Araştırmacılar henüz 128'den fazla üretim yapmadılar.
+
+ Küresel enerji lideri Iberdola'ya göre, "kuantum bilgisayarların neredeyse hiç atmosferik basınç, mutlak sıfıra (-273 ° C) yakın bir ortam sıcaklığı ve atomların hareket etmesini, birbirleriyle çarpışmasını veya çevre ile etkileşime girmesini önlemek için dünyanın manyetik alanından yalıtıma sahip olması gerekir."
+
+ "Ek olarak, bu sistemler yalnızca çok kısa aralıklarla çalışır, böylece bilgiler zarar görür ve depolanamaz, bu da verilerin kurtarılmasını daha da zorlaştırır."
+
+ Kuantum Bilgisayar vs Klasik Bilgisayar
+
+ Kuantum bilgisayarlar klasik bilgisayarlardan daha temel bir yapıya sahiptir. Bellekleri veya işlemcileri yoktur. Bir kuantum bilgisayarın kullandığı tek şey bir dizi süper iletken kübittir.
+
+ Kuantum bilgisayarlar ve klasik bilgisayarlar bilgiyi farklı şekilde işler. Bir kuantum bilgisayar, çok boyutlu kuantum algoritmalarını çalıştırmak için kübitleri kullanır. İşlem güçleri, kübitler eklendikçe katlanarak artar. Klasik bir işlemci, çeşitli programları çalıştırmak için bitler kullanır. Daha fazla bit eklendikçe güçleri doğrusal olarak artar. Klasik bilgisayarlar çok daha az bilgi işlem gücüne sahiptir.
+
+
+ Klasik bilgisayarlar günlük görevler için en iyisidir ve düşük hata oranlarına sahiptir. Kuantum bilgisayarlar, simülasyonları çalıştırmak, verileri analiz etmek (kimyasal veya ilaç denemeleri gibi), enerji tasarruflu piller oluşturmak gibi daha yüksek bir görev seviyesi için idealdir. Ayrıca yüksek hata oranlarına sahip olabilirler.
+
+ Klasik bilgisayarların ekstra özel bakıma ihtiyacı yoktur. Aşırı ısınmayı önlemek için temel bir dahili fan kullanabilirler. Kuantum işlemcilerin en ufak titreşimlerden korunması ve aşırı soğuk tutulması gerekir. Bu amaçla süper soğutmalı süper akışkanlar kullanılmalıdır.
+
+ Kuantum bilgisayarlar klasik bilgisayarlardan daha pahalı ve inşa edilmesi zordur.
+2019'da Google, bir kuantum bilgisayarın bir sorunu dakikalar içinde çözebileceğini, klasik bir bilgisayarın ise 10.000 yıl süreceğini kanıtladı.
+
+ Kuantum Bilgisayarları Geliştirme Aşamasında
+ 
+ Google Mağazası
+
+ Google, kuantum bilgisayarını 2029 yılına kadar inşa etmek için milyarlarca dolar harcıyor. Şirket, bu hedefe ulaşmasına yardımcı olmak için Kaliforniya'da Google AI adlı bir kampüs açtı. Bir kez geliştirildikten sonra, Google bulut üzerinden bir kuantum bilgi işlem  hizmeti başlatabilir.
+ 
+ IBM
+ 
+ IBM, 2023 yılına kadar 1.000 kubitlik bir kuantum bilgisayara sahip olmayı planlıyor. Şimdilik IBM, Quantum Network'ün bir parçası olan araştırma kuruluşları, üniversiteler ve laboratuvarlar için makinelerine erişime izin veriyor. 
+
+ Microsoft
+
+Microsoft, şirketlere Azure Quantum platformu aracılığıyla kuantum teknolojisine erişim sunar.  
+
+ Diğer
+ 
+ JPMorgan Chase ve Visa gibi finansal hizmetler firmalarının kuantum hesaplama ve teknolojisine ilgisi var.
+
+ En Basit Anlamda Kuantum Hesaplama Nedir?
+
+ Kuantum hesaplama, kuantum bilgisayar tarafından yapılan hesaplama ile ilgilidir. Klasik bir bilgisayar tarafından yapılan geleneksel hesaplama ile karşılaştırıldığında, bir kuantum bilgisayar çok daha fazla bilgi depolayabilmeli ve daha verimli algoritmalarla çalışabilmelidir. Bu, son derece karmaşık görevleri daha hızlı çözmek anlamına gelir.
+
+ Bir Kuantum Bilgisayar İnşa Etmek Ne Kadar Zor?
+
+ Bir kuantum bilgisayar oluşturmak uzun zaman alır ve çok pahalıdır. Google, yıllardır kuantum bir bilgisayar inşa etmek için çalışıyor ve milyarlarca dolar harcadı. Kuantum bilgisayarını 2029 yılına kadar hazır hale getirmeyi bekliyor. IBM, 2023 yılına kadar 1.000 kubitlik bir kuantum bilgisayara sahip olmayı umuyor.
+
+ Bir Kuantum Bilgisayarın Maliyeti Ne Kadardır?
+ 
+ Bir kuantum bilgisayarın inşası milyarlarca dolara mal oluyor. Bununla birlikte, Çin merkezli Shenzhen SpinQ Technology, okullar ve kolejler için tüketicilere 5.000 dolarlık bir masaüstü kuantum bilgisayar satmayı planlıyor. Geçen yıl, 50.000 dolara bir kuantum bilgisayar satmaya başladı.
+
+ Bir Kuantum Bilgisayar Ne Kadar Hızlıdır?
+
+ Bir kuantum bilgisayar, klasik bir bilgisayardan veya bir süper bilgisayardan birçok kez daha hızlıdır. Google'ın geliştirilmekte olan kuantum bilgisayarı Sycamore'un, dünyanın en hızlı bilgisayarlarından biri olan IBM'in Zirvesi'nin çözmek için harcayacağı 10.000 yıla kıyasla 200 saniyede bir hesaplama yaptığı söyleniyor. IBM, süper bilgisayarının hesaplamayı 2,5 gün içinde çözebileceğini söyleyerek Google'ın iddiasına itiraz etti. Yine de, Google'ın kuantum makinesinden 1000 kat daha yavaş.
+Sözün özü
+Kuantum hesaplama, klasik hesaplamadan çok farklıdır. Aynı anda 1 veya 0 olabilen kübitleri kullanır. Klasik bilgisayarlar sadece 1 veya 0 olabilen bitler kullanır.
+
+Sonuç olarak, kuantum hesaplama çok daha hızlı ve daha güçlüdür. Çeşitli son derece karmaşık, değerli görevleri çözmek için kullanılması bekleniyor.
+
+Şu anda sınırlamaları olsa da, sayısız endüstride birçok yüksek güçlü şirket tarafından çalışmaya hazırlanıyor.
+
+
+
+
+
+
+

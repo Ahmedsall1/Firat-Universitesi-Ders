@@ -1,0 +1,680 @@
+		Mesleki Ingilzce :
+				1.1.sayfa
+
+1. the smallest unit of data.
+	en küçük veri birimi.
+		اصغر وحدة بيانات
+
+2. that is either 0 or 1.
+	1 yada 0 olmak üzere
+		تكون اما 1 او 0
+
+3. the number of cycles per second.
+	saniyede devir sayısı .
+		عدد الدورات في الثانية	
+
+4. FLOPS:
+	Floating-point operations per second.			operations
+		saniyede kayan nokta işlemleri.			işlemler
+			عمليات الفاصلة العائمة في الثانية
+
+5. MIPS:
+	Millions insetructions per second.
+		saniyede milyon talimat.
+			مليون تعليمة في الثانية
+
+6. rpm:
+	Revolutions per minute.
+		dakikada devir sayısı.
+			عدد العمليات في الدقيقة
+
+7. Refresh rate:
+	Image refresh rate per second.
+		Saniyde görüntü yenileme hızı.
+			معدل التحديث في الثانية
+
+8. Bit rate:
+	the number of bits that are transferred.
+		aktarilan bit sayısı.
+			عدد البيتات المرسلة
+
+9. at this stage.
+	bu aşamada.
+		في هذه المرحلة
+------------------------------------------------------------------------------------------------------------------
+
+				1.2.sayfa
+
+1. dpi:
+	Dots per Inch
+		İnç Başına Nokta Sayısı				
+			نقاط لكل إنش	
+
+2. Pixel:
+	the smallest dot on the screen
+		ekrandaki en küçük nokta
+			أصغر نقطة على الشاشة
+
+
+3. resolution:	الدقة
+	dots per inch in printers(for example 600 dpi);
+		yazıcılarda inç başına nokta (örneğin 600 dpi);
+			عدد النقاط في البوصة في الطابعات (على سبيل المثال 600 نقطة في البوصة) ؛
+
+or total pixel number on horizontal and vertical axis on the screen (for example 640 x 480)
+	veya ekranda yatay ve dikey eksende toplam piksel sayısı (örneğin 640 x 480)	
+		أو عدد البكسل الكلي على المحور الأفقي والرأسي على الشاشة (على سبيل المثال 640 × 480)
+
+4. dot pitch:
+	Distance between two pixel
+		İki piksel arasındaki mesafe
+			المسافة بين 2 بكسل
+
+--------------------------------------------------------------------------------------------------------------------------------------
+				1.sayfa
+
+1. Requirement Analysis:
+	ihtiyaç analizi
+	تحليل المتطلبات
+
+2. Softwere is developed to meet requirements.
+	gereksinimleri karşılamak için yazılım geliştirildi.
+		تم تطوير البرنامج لتلبيت المتطلبات
+
+3. of a certain group of users.
+	belirli bir kulanıcı grubunu.
+		لمجموعة معينة من المستخدمين
+
+4. software system that is to be designed.
+	tasarlanacak yazılım sistemi.
+		نظام البرمجيات الذي سيتم تصميمه	
+
+5. And develop should users requirements completely.
+	ve geliştirme kulanıcı gereksinimlerini tam olarak karşılamalıdır.
+		وتطوير يجب ان يفي متطلبات المستخدم كاملة
+
+6. these requirements should be created by a group of users clearly and in a suitable form. 
+	bu gereksinmler bir grup kulanıcı tarafından açık ve uygun bir biçimde oluşturulmalıdır.
+		يجب انشاء هذه المتطلبات من قبل مجموعة من المستخدمين بشكل واضح وفي شكل مناسب
+
+7. joint work between people who will develop and use the software will.
+	yazılım geliştirecek ve kulanacak kişilerin ortak çalışması uygun olacaktır.
+		سيكون العمل الشترك بين الاشخاص الذين سيطورون البرنامج ويستخدمونه مناسبا
+
+8. Success of the system can be measured by how well these needs set out in advance are met by the software
+	Sistemin başarısı, önceden belirlenen bu ihtiyaçların yazılım tarafından ne kadar iyi karşılandığı ile ölçülebilir.
+		يمكن قياس نجاح النظام من خلال مدى تلبية البرنامج لهذه الاحتياجات المحددة مسبقًا
+
+9. how well these needs are put forward by users and how well these needs express the actual requirements
+	bu ihtiyaçların kullanıcılar tarafından ne kadar iyi ortaya konulduğu ve bu ihtiyaçların gerçek ihtiyaçları ne kadar iyi ifade ettiği
+		إلى أي مدى يتم تقديم هذه الاحتياجات من قبل المستخدمين ومدى جودة هذه الاحتياجات في التعبير عن المتطلبات الفعلية
+
+10. As a result of this sage, documents explaining what are expected from the system
+	Bu bilgeliğin bir sonucu olarak sistemden ne beklendiğini açıklayan belgeler
+		ونتيجة لهذا الحكيم ، تشرح الوثائق ما هو متوقع من النظام
+
+11. draft forms of user manuals, cost and feasibility analysis, and performance requirements are put in concrete terms.
+	kullanım kılavuzlarının taslak formları, maliyet ve fizibilite analizi ve performans gereksinimleri somut terimlerle ifade edilir.
+		يتم وضع مسودات نماذج أدلة المستخدم ، وتحليل التكلفة والجدوى ، ومتطلبات الأداء بعبارات محددة.
+
+12. software design: 			yazılım Tasarımı
+	software designers start the design of the system by the above mentioned requirement documents.
+		yazılım tasarımcıları, yukarıda belirtilen gereksinim belgeleri ile sistemin tasarımına başlar.
+			يبدأ مصممو البرامج في تصميم النظام من خلال مستندات المتطلبات المذكورة أعلاه.
+
+13. as a result of this stage, documentation is set out,which provides the definitions about system design
+	Bu aşamanın sonucunda sistem tasarımı ile ilgili tanımlamaları sağlayan dokümantasyon ortaya çıkar.
+		نتيجة لهذه المرحلة ، تم إعداد الوثائق ، والتي توفر التعريفات حول تصميم النظام
+
+14. in this documentation,all modules of the system and their interfaces should be defined.
+	bu dokümantasyonda sistemin tüm modülleri ve arayüzleri tanımlanmalıdır.
+		في هذه الوثائق ، يجب تحديد جميع وحدات النظام وواجهاتها.
+
+15. design method, which is used in this step, may have a great influence on the selection of programming language that will be used to implement the system.
+
+Bu adımda kullanılan tasarım yöntemi, sistemi uygulamak için kullanılacak programlama dilinin seçiminde büyük bir etkiye sahip olabilir.
+قد يكون لطريقة التصميم المستخدمة في هذه الخطوة تأثير كبير على اختيار لغة البرمجة التي سيتم استخدامها لتنفيذ النظام.
+
+16. coding:
+	it is the stage where definitions mage in the second stage are encoded.
+		ikinci aşamadaki tanımların kodlandığı aşamadır.
+			إنها المرحلة التي يتم فيها ترميز التعاريف في المرحلة الثانية.
+
+17. this stage is the sole step where programming language is applied directly.
+	bu aşama, programlama dilinin doğrudan uygulandığı yegane aşamadır.
+		هذه المرحلة هي الخطوة الوحيدة حيث يتم تطبيق لغة البرمجة بشكل مباشر.
+
+18.it is a software system fully implemented and reported.
+	tamamen uygulanan ve raporlanan bir yazılım sistemidir.
+		إنه نظام برمجي تم تنفيذه بالكامل والإبلاغ عنه.
+
+19. certification:			شهادة
+	software, that is put forward here, is deployed to end users after quality control
+		Burada öne sürülen yazılım, kalite kontrolünden sonra son kullanıcılara dağıtılır.
+			يتم نشر البرنامج ، الذي تم طرحه هنا ، للمستخدمين النهائيين بعد مراقبة الجودة
+
+20.certification can be made after al software is put forward, it is also possible to check each modules and interfaces between modules incrementally.
+	tüm yazılımlar ortaya çıktıktan sonra sertifikalandırma yapılabileceği gibi, her bir modülü ve modüller arasındaki arayüzleri aşamalı olarak kontrol etmek de mümkündür.
+	يمكن إجراء الشهادة بعد طرح البرامج ، ومن الممكن أيضًا التحقق من كل وحدة وواجهات بين الوحدات بشكل تدريجي.
+
+21. in all of thes transactions, it is considered whether software fully meet the expectations and have seamless interfeaces.
+	tüm bu işlemlerde yazılımın beklentileri tam olarak karşılayıp karşılamadığı ve sorunsuz arayüzlere sahip olup olmadığı dikkate alınır.
+		في جميع هذه المعاملات ، يتم النظر في ما إذا كانت البرامج تلبي التوقعات بشكل كامل ولها واجهات سلسة.
+
+22. maintenance: 		bakım
+this step includes the addition of new components and the elimination of rerors.
+	bu adım, yeni bileşenlerin eklenmesini ve hataların ortadan kaldırılmasını içerir.
+		تتضمن هذه الخطوة إضافة مكونات جديدة والقضاء على عمليات إعادة الإرسال.
+
+23. the importance of this stage can be understood bbetter when the costs are considered.
+	Bu aşamanın önemi maliyetler düşünüldüğünde daha iyi anlaşılabilir.
+		يمكن فهم أهمية هذه المرحلة بشكل أفضل عند النظر في التكاليف.
+
+24. experience has shown that a system maintenance costs may be close to or even higher than the total cost of other stages of the system.
+	deneyimler, bir sistem bakım maliyetlerinin, sistemin diğer aşamalarının toplam maliyetine yakın veya hatta daha yüksek olabileceğini göstermiştir.
+	أظهرت التجربة أن تكاليف صيانة النظام قد تكون قريبة من التكلفة الإجمالية لمراحل أخرى من النظام أو حتى أعلى منها.
+
+25.Importance of programming language in sofware development:
+	Yazılım geliştirmede programlama dilinin önemi
+		أهمية لغة البرمجة في تطوير البرمجيات
+
+26. Programming language is one of the most important factors for the success of software development process.
+	Programlama dili, yazılım geliştirme sürecinin başarısı için en önemli faktörlerden biridir.
+		تعد لغة البرمجة من أهم عوامل نجاح عملية تطوير البرمجيات.
+
+27.for this reason, programming language and software that is written in thes programming language are requied to provide some basic creteria.
+	bu nedenle programlama dili ve bu programlama dilinde yazılan yazılımların bazı temel bilgileri sağlaması gerekmektedir.
+		لهذا السبب ، فإن لغة البرمجة والبرمجيات المكتوبة بلغة البرمجة هذه مطلوبة لتوفير بعض المعايير الأساسية.
+
+28. these critearia are listed below.
+	bu kriterler aşağıda listelenmiştir.
+		يتم سرد هذه الشروط الأساسية أدناه.
+
+29. 1. Software should be trustworthy:
+	Yazılım güvenilir olmalıdır
+		يجب أن تكون البرامج جديرة بالثقة
+
+30. users should rely on the software they use.
+	kullanıcılar kullandıkları yazılıma güvenmelidir.
+		يجب على المستخدمين الاعتماد على البرامج التي يستخدمونها.
+
+31. even in error-messages related to software or hardware, users should not lose their trust.
+	yazılım veya donanımla ilgili hata mesajlarında bile kullanıcıların güvenlerini kaybetmemeleri gerekir.
+		حتى في رسائل الخطأ المتعلقة بالبرامج أو الأجهزة ، يجب ألا يفقد المستخدمون ثقتهم.
+
+32. quality criteria of programming languages become important for establishing the reliability of software .
+	programlama dillerinin kalite kriterleri, yazılımların güvenilirliğini belirlemede önemli hale gelmektedir.
+		تصبح معايير الجودة الخاصة بلغات البرمجة مهمة لتحديد موثوقية البرامج.
+
+33. thes criteria are
+	bu kriterler
+		هذه المعايير
+
+--------------------------------------------------------------------------------------------------------------------------------------
+					2.sayfa
+
+1.Data structures and data models
+	veri yapıları ve veri modelleri
+		هياكل البيانات ونماذج البيانات
+
+2.objectives: 	الأهداف
+	the following will be learned in this chapter
+		Bu bölümde aşağıdakiler öğrenilecek
+			سيتم تعلم ما يلي في هذا الفصل
+
+3.data and information
+	veri ve bilgi
+		البيانات والمعلومات
+
+4.data models
+	veri modelleri
+		نماذج البيانات
+
+5.basic data types
+	temel veri türleri
+		أنواع البيانات الأساسية
+
+6.ASCII table
+	American Standard Code for Information Interchange
+		Bilgi değişimi için Amerikan Standart kodu
+			الكود القياسي الأمريكي لتبادل المعلومات
+
+7.structure and union
+	yapı ve birlik
+		الهيكل والنقابة		
+
+8.characters and strings			الأحرف والسلاسل
+9.data structures		veri yapıları	هياكل البيانات
+10.list data model		veri modelini listele	نموذج بيانات القائمة
+11.graph data model		grafik veri modeli 	نموذج بيانات الرسم البياني
+12.tree data model		ağaç veri modeli	نموذج بيانات الشجرة
+
+13.problem modelling and solving
+	problem modelleme ve çözme
+		نمذجة المشكلة وحلها
+
+14.data structure means keeping the information in memory or storage in a meaningful format;
+	veri yapısı, bilgiyi anlamlı bir biçimde bellekte veya depoda tutmak anlamına gelir;
+		تعني بنية البيانات الاحتفاظ بالمعلومات في الذاكرة أو تخزينها بتنسيق مفيد ؛
+
+15.in other words, it can be called "a kind of boxing process."
+	başka bir deyişle, 'bir tür boks süreci' olarak adlandırılabilir.
+		وبعبارة أخرى ، يمكن أن يطلق عليه "نوع من عملية الملاكمة".
+
+16.in order to operate on an input value , it should be kept in the memory of computer
+	Bir giriş değeri üzerinde işlem yapabilmek için bilgisayarın hafızasında saklanmalıdır.
+		من أجل العمل على قيمة الإدخال ، يجب حفظها في ذاكرة الكمبيوتر
+
+17.programs operate on data stored in memory and store the results again in memory as data.
+	programlar hafızada saklanan veriler üzerinde çalışır ve sonuçları tekrar veri olarak hafızada saklar.
+		تعمل البرامج على البيانات المخزنة في الذاكرة وتخزن النتائج مرة أخرى في الذاكرة كبيانات.
+
+18.data model,on the other hand,shows the relational or sequential status of data within a certain set;
+	veri modeli ise, belirli bir küme içindeki verilerin ilişkisel veya sıralı durumunu gösterir;
+		نموذج البيانات ، من ناحية أخرى ، يوضح الحالة العلائقية أو المتسلسلة للبيانات داخل مجموعة معينة ؛
+
+
+19.for example , while flying each goose represents the data m the other focuses on the relationship and links between the data
+	örneğin uçarken her bir kaz veriyi temsil ederken diğeri veri arasındaki ilişki ve bağlantılara odaklanır.
+		على سبيل المثال ، بينما يمثل الطيران في كل أوزة البيانات ، يركز الآخر على العلاقة والروابط بين البيانات
+
+20.for example , while flying each goose represents the data , geese flying in V-shape in the air composed a kind of data model.
+	örneğin, uçan her kaz veriyi temsil ederken, havada V şeklinde uçan kazlar bir tür veri modeli oluşturmuştur.
+		على سبيل المثال ، أثناء تحليق كل أوزة تمثل البيانات ، تتكون الأوز التي تطير على شكل حرف V في الهواء نوعًا من نموذج البيانات.
+
+21.Data models are tools for solving problems in computer science.
+	Veri modelleri, bilgisayar bilimlerindeki sorunları çözmek için kullanılan araçlardır.
+		نماذج البيانات هي أدوات لحل المشكلات في علوم الكمبيوتر.
+
+22.Data structure and data model are two separate concepts, but nested in each other;
+	Veri yapısı ve veri modeli iki ayrı kavramdır, ancak iç içe geçmiştir;
+		هيكل البيانات ونموذج البيانات مفهومان منفصلان ، لكنهما متداخلان في بعضهما البعض ؛
+
+23.one is dealing with the storage format of the data, the other focuses on the relationship and lins between the data.
+	biri verinin saklanma formatıyla ilgilenirken, diğeri veri arasındaki ilişki ve bağlantılara odaklanır.
+		أحدهما يتعامل مع تنسيق تخزين البيانات ، والآخر يركز على العلاقة والترابط بين البيانات.
+
+24.for example ,students in a classroom are data , student desks correspond to data structure and the placement of desks determine how students will sit in a classroom .
+	örneğin, bir sınıftaki öğrenciler veridir, öğrenci sıraları veri yapısına karşılık gelir ve sıraların yerleşimi öğrencilerin bir sınıfta nasıl oturacaklarını belirler.
+		على سبيل المثال ، الطلاب في الفصل الدراسي عبارة عن بيانات ، وتتوافق مكاتب الطلاب مع بنية البيانات ، ويحدد موضع المكاتب كيفية جلوس الطلاب في الفصل الدراسي.
+
+25.However, a meaningful positioning of student desks corresponds to the data model.
+	Ancak öğrenci sıralarının anlamlı bir şekilde konumlandırılması veri modeline karşılık gelmektedir.
+		ومع ذلك ، فإن تحديد موقع مكاتب الطلاب بشكل هادف يتوافق مع نموذج البيانات.
+
+26.for example , students may be arranged in alphabetical order by their names as well as according to their ages or heights;
+	örneğin, öğrenciler adlarına göre alfabetik olarak sıralanabileceği gibi yaşlarına veya boylarına göre de sıralanabilir;
+		على سبيل المثال ، يمكن ترتيب الطلاب أبجديًا حسب أسمائهم وكذلك وفقًا لأعمارهم أو ارتفاعاتهم ؛
+	
+27.such an arrangement creates a data model an it facilitates processing of data.
+	böyle bir düzenleme bir veri modeli oluşturur ve verilerin işlenmesini kolaylaştırır.
+		مثل هذا الترتيب ينشئ نموذج بيانات ويسهل معالجة البيانات.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+				3.Sayafa
+
+Boolean Algebra:
+	Boole Cebiri
+		الجبر المنطقي	
+
+1. Objectives: The following will be learned in this chapter.
+	Hedefler: Bu bölümde aşağıdakiler öğrenilecektir.
+		الأهداف: سيتم تعلم ما يلي في هذا الفصل.
+
+2.
+Boolean algebra		Boole cebiri			الجبر المنطقي
+truth tables		doğruluk tabloları			جداول الحقيقة
+De Morgan`s laws		De Morgan'ın yasaları			قوانين دي مورغان
+Karnaugh maps		Karnaugh haritaları			خرائط كارنو
+distributive rules		dağıtım kuralları			قواعد التوزيع
+Boolean algebra theorems	Boole cebir teoremleri			نظريات الجبر المنطقي
+logic gates: AND,OR,NOT	mantık kapıları: AND,OR,NOT	البوابات المنطقية: و ، أو ، لا
+simplification of expression	ifadenin basitleştirilmesi		تبسيط التعبير
+maxterm and minterm	maxterm ve minterm		مصطلح
+
+3.boolean algebra, which forms the mathematical basis of digital circuit design
+	sayısal devre tasarımının matematiksel temelini oluşturan boole cebri
+		الجبر المنطقي ، الذي يشكل الأساس الرياضي لتصميم الدوائر الرقمية
+
+4. Is a symbolic mathematical logic system that depicts the relationships between propositions or objects.
+	Önermeler veya nesneler arasındaki ilişkileri gösteren sembolik bir matematiksel mantık sistemidir.
+		هو نظام منطقي رياضي رمزي يصور العلاقات بين المقترحات أو الأشياء.
+
+5. Logic algebra, which is called Boolean algebra today, was presented in a systematic way by mathematician.
+	Günümüzde Boole cebiri olarak adlandırılan mantık cebiri, matematikçiler tarafından sistemli bir şekilde sunulmuştur.
+		تم تقديم الجبر المنطقي ، والذي يسمى الجبر المنطقي اليوم ، بطريقة منهجية من قبل عالم الرياضيات.
+
+6. logician and academician George Boole in 1854 for the first time an then.
+	mantıkçı ve akademisyen George Boole ilk kez 1854'te ve o zamanlar.
+		عالم المنطق والأكاديمي جورج بول في عام 1854 لأول مرة في ذلك الوقت.
+
+7. C.E. shannon developed a two-valued boolean algebra called key algebra in 1938.
+	C.E. Shannon, 1938'de anahtar cebir adı verilen iki değerli bir boole cebiri geliştirdi.
+		طور سي إي شانون جبرا منطقيا ذا قيمتين يسمى الجبر الرئيسي في عام 1938.
+
+8. boolean algebra, which provided the essential foundation for the design of circuits used in digital computers.
+	sayısal bilgisayarlarda kullanılan devrelerin tasarımı için gerekli temeli sağlayan boole cebri.
+		الجبر المنطقي ، الذي قدم الأساس الضروري لتصميم الدوائر المستخدمة في أجهزة الكمبيوتر الرقمية.
+
+9. applies in cases where the truth values 
+	gerçeğin değer verdiği durumlarda geçerlidir
+		ينطبق في الحالات التي تكون فيها قيم الحقيقة
+
+- in other words truth or falseness of logical proposition - are used as variables rather than numerical quantities as in algebra.
+	başka bir deyişle, mantıksal önermenin doğruluğu veya yanlışlığı - cebirde olduğu gibi sayısal niceliklerden ziyade değişkenler olarak kullanılır.
+		وبعبارة أخرى حقيقة أو زيف الاقتراح المنطقي - تستخدم كمتغيرات بدلا من الكميات العددية كما هو الحال في الجبر.
+
+10. this feature, which is an important advantage of Boolean algebra
+	Boole cebrinin önemli bir avantajı olan bu özellik
+		هذه الميزة ، وهي ميزة مهمة للجبر المنطقي
+
+11. allows making an operation by using propositions,the truth value of which may be 1 or 0 .
+	doğruluk değeri 1 veya 0 olan önermeleri kullanarak işlem yapmayı sağlar.
+		يسمح بإجراء عملية باستخدام المقترحات ، والتي قد تكون قيمة الحقيقة 1 أو 0.
+
+12. when two logical propositions are connected with AND or OR logical conjunction .
+	iki mantıksal önerme AND veya OR mantıksal bağlacı ile bağlandığında.
+		عندما يرتبط اقتراحان منطقيان ب AND أو OR اقتران منطقي .
+
+13. the truth value of compound logical proposition depends on the truth values of each proposition and the type of conjunction.
+	Bileşik mantıksal önermenin doğruluk değeri, her önermenin doğruluk değerlerine ve bağlacın türüne bağlıdır.
+		تعتمد قيمة الحقيقة للاقتراح المنطقي المركب على قيم الحقيقة لكل اقتراح ونوع الاقتران.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+				4.Sayfa
+
+1. In classical model, software development is sequential.
+	Klasik modelde yazılım geliştirme ardışıktır.
+		في النموذج الكلاسيكي ، يكون تطوير البرمجيات متسلسلا
+
+
+2.  Information flow is only in one direction.
+	Bilgi akışı tek yönlüdür.
+		تدفق المعلومات هو فقط في اتجاه واحد.
+
+3. when a problem arises, local solutions are produced and tried to be implement so that problem does not affect the previous stages.
+	Bir sorun ortaya çıktığında, sorunun önceki aşamaları etkilememesi için yerel çözümler üretilir ve uygulanmaya çalışılır.
+		عندما تنشأ مشكلة ، يتم إنتاج الحلول المحلية ومحاولة تنفيذها حتى لا تؤثر المشكلة على المراحل السابقة.
+
+4. In large projects, it is only possible to move to the next phase, and this is performed formally.
+	Büyük projelerde sadece bir sonraki aşamaya geçmek mümkündür ve bu resmi olarak gerçekleştirilir.
+		Büyük projelerde sadece bir sonraki aşamaya geçmek mümkündür ve bu resmi olarak gerçekleştirilir.
+
+5. If a problem arises, it returns to the previous step and the relevant jobs are repeated.
+	Eğer bir sorun çıkarsa bir önceki adıma dönülür ve ilgili işler tekrarlanır.
+		إذا ظهرت مشكلة ، فإنها تعود إلى الخطوة السابقة وتتكرر الوظائف ذات الصلة.
+
+6. Participation of customer in each stage as a certifying authority gives more positive results in this model.
+	Müşterinin her aşamaya bir sertifika yetkilisi olarak katılması bu modelde daha olumlu sonuçlar vermektedir.
+		مشاركة العميل في كل مرحلة كسلطة تصديق تعطي نتائج أكثر إيجابية في هذا النموذج.
+
+7. However, it may result in wrong assumptions about development period.
+	Ancak, geliştirme süreci hakkında yanlış varsayımlara yol açabilir.
+		ومع ذلك ، قد يؤدي إلى افتراضات خاطئة حول فترة التطوير.
+
+8. if the subject is relatively new.
+	konu nispeten yeniyse.
+		إذا كان الموضوع جديدا نسبيا.
+
+
+9. Classical model is a suitable method for the projects which are particularly well-defined.
+	Klasik model, özellikle iyi tanımlanmış projeler için uygun bir yöntemdir.
+		النموذج الكلاسيكي هو طريقة مناسبة للمشاريع المحددة جيدا بشكل خاص
+
+10.  have definite requirements, and are unexpected to take more time and in which payments are made according to a fixed price and progress billing.
+	belirli gereksinimleri olan, daha fazla zaman alması beklenmeyen, ödemelerin sabit bir fiyat ve hakediş faturasına göre yapıldığı.
+		لها متطلبات محددة ، ومن غير المتوقع أن تستغرق المزيد من الوقت والتي تتم فيها المدفوعات وفقا لسعر ثابت وفواتير مرحلية.
+
+
+11. "V" Model: 
+
+12. "V" model considers the development process on the basis of system concept and brings to the fore when the tests will be done.
+	"V" modeli, geliştirme sürecini sistem konsepti bazında ele alır ve testlerin ne zaman yapılacağını ön plana çıkarır.
+		يأخذ النموذج "V" في الاعتبار عملية التطوير على أساس مفهوم النظام ويبرز متى سيتم إجراء الاختبارات.
+
+13. As seen in Figure 9.4, stages on both sides of "V" shape can also be considered as a test level. 
+	Şekil 9.4'te görüldüğü gibi, "V" şeklinin her iki yanındaki aşamalar da bir test seviyesi olarak kabul edilebilir.
+		Şekil 9.4'te görüldüğü gibi, "V" şeklinin her iki yanındaki aşamalar da bir test seviyesi olarak kabul edilebilir.
+
+14. Production activities are on the left, test events are on the right wing.
+	Üretim faaliyetleri solda, test etkinlikleri ise sağ kanatta yer alıyor.
+		أنشطة الإنتاج على اليسار ، وأحداث الاختبار على الجناح الأيمن.
+
+
+15.V-model is shown as "W" to show intermediate activities and test phases.
+	V modeli, ara etkinlikleri ve test aşamalarını göstermek için "W" olarak gösterilir.
+		يظهر الطراز V ك "W" لإظهار الأنشطة الوسيطة ومراحل الاختبار.
+
+
+16. Code review:			Kod incelemesi			مراجعة الكود:
+
+system requirements analysis		sistem gereksinimleri analizi		تحليل متطلبات النظام
+System design 			Sistem tasarımı			تصميم النظام
+software requirement analysis		yazılım gereksinim analizi		تحليل متطلبات البرمجيات
+software design 			yazılım Tasarımı			تصميم البرمجيات 
+software implemention		yazılım uygulaması			تنفيذ البرمجيات
+software prodution 			yazılım üretimi			إنتاج البرمجيات 
+software and hardware integration	yazılım ve donanım entegrasyonu	تكامل البرامج والأجهزة
+system production			sistem üretimi			إنتاج النظام
+system installation			sistem kurulumu			تثبيت النظام
+
+
+17. Static Review:			Statik İnceleme			مراجعة ثابتة
+
+system requirements test 		sistem gereksinimleri testi		اختبار متطلبات النظام
+system design test 			sistem tasarım testi			اختبار تصميم النظام 
+software requirement test		yazılım gereksinim testi		اختبار متطلبات البرنامج
+software design test			yazılım tasarım testi			اختبار تصميم البرمجيات
+unit test 				ünite testi				اختبار الوحدة
+software integration test 		yazılım entegrasyon testi		اختبار تكامل البرمجيات 
+system integration test 		sistem entegrasyon testi		اختبار تكامل النظام
+system qualty test 			sistem kalite testi			اختبار جودة النظام
+acceptance testing			Kabul testleri			اختبار القبول
+
+
+18. This model shows to which level it is necessary to go back in order to correct the errors.
+	Bu model hataların düzeltilmesi için hangi düzeye geri gidilmesi gerektiğini göstermektedir.
+		يوضح هذا النموذج المستوى الذي من الضروري العودة إليه لتصحيح الأخطاء.
+
+19.  It gives better results in the projects which have well-defined requirements.
+	Gereksinimleri iyi tanımlanmış projelerde daha iyi sonuç verir.
+		يوضح هذا النموذج المستوى الذي من الضروري العودة إليه لتصحيح الأخطاء.
+
+20.  do not have much uncertainties and progress in stages.
+	çok fazla belirsizlik ve aşama aşama ilerleme yok.
+		çok fazla belirsizlik ve aşama aşama ilerleme yok.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+				5.Sayfa
+
+1. Prototyping: 	Prototyping	النماذج
+
+2. In some cases, customers usually tell their expectations from the software product, but can not describe the detailed input
+	Bazı durumlarda, müşteriler genellikle yazılım ürününden beklentilerini söylerler, ancak ayrıntılı girdiyi tarif edemezler.
+		في بعض الحالات ، يخبر العملاء عادة توقعاتهم من منتج البرنامج ، لكن لا يمكنهم وصف المدخلات التفصيلية.
+
+3. processing and output requirements.
+	işleme ve çıktı gereksinimleri.
+		متطلبات المعالجة والإخراج.
+
+4. On the other hand, developer may not be sure about the architecture of operating system
+	Öte yandan geliştirici, işletim sisteminin mimarisi konusunda emin olmayabilir.
+		من ناحية أخرى ، قد لا يكون المطور متأكدا من بنية نظام التشغيل
+
+5. of the selected new hardware as well as the efficiency of algorithms that will be used.
+	seçilen yeni donanımın yanı sıra kullanılacak algoritmaların verimliliği.
+		من الأجهزة الجديدة المحددة بالإضافة إلى كفاءة الخوارزميات التي سيتم استخدامها.
+
+
+6.In such ambiguous cases, prototype in other words pre-product or example approach may be the best software development method.
+	Bu tür belirsiz durumlarda prototip yani ön ürün veya örnek yaklaşım en iyi yazılım geliştirme yöntemi olabilir.
+		في مثل هذه الحالات الغامضة ، قد يكون النموذج الأولي بمعنى آخر نهج ما قبل المنتج أو المثال هو أفضل طريقة لتطوير البرمجيات.
+
+
+7.In prototyping method, the developer and the user define the system requirements together and determine the points needed further consideration.
+	Prototipleme yönteminde geliştirici ve kullanıcı birlikte sistem gereksinimlerini tanımlar ve üzerinde durulması gereken noktaları belirler.
+		في طريقة النماذج الأولية ، يحدد المطور والمستخدم متطلبات النظام معا ويحددان النقاط التي تحتاج إلى مزيد من الدراسة.
+
+8. Then, the design is completed quickly. This design determines the user interaction or the most basic function and then prototype is produced accordingly. 
+	Daha sonra tasarım hızla tamamlanır. Bu tasarım, kullanıcı etkileşimini veya en temel işlevi belirler ve buna göre prototip üretilir.
+		ثم يكتمل التصميم بسرعة. يحدد هذا التصميم تفاعل المستخدم أو الوظيفة الأساسية ثم يتم إنتاج النموذج الأولي وفقا لذلك.
+
+9. This prototype is tested by customers and the requirements are reviewed;
+	Bu prototip müşteriler tarafından test edilir ve gereksinimler gözden geçirilir;
+		This prototype is tested by customers and the requirements are reviewed;
+
+
+10. these requirements are reflected to the product by developer; see Figure 9.5.
+	bu gereksinimler geliştirici tarafından ürüne yansıtılır; bkz. Şekil 9.5.
+		تنعكس هذه المتطلبات على المنتج من قبل المطور ؛ انظر الشكل 9.5.
+
+11.
+Getting requirements	Gereksinimleri alma	الحصول على المتطلبات
+Quickly design 		Hızlı tasarım		تصميم سريع
+Prototype Development	Prototip Geliştirme		تطوير النموذج الأولي
+testing by customer		müşteri tarafından test	اختبار من قبل العملاء
+Improvement of prototype	Prototip iyileştirme		تحسين النموذج الأولي
+Reference Product		Referans Ürün		المنتج المرجعي
+
+in many research and development projects, such a method is used. however , in contracts based on phase points and fixed-price ,this method is very difficult to implement ,since acceptance principles cannot be determined.
+spiral model
+spiral model has been created by combining the best aspects of both classical and prototyping methods . generally spiral model consists of sequential four stages as shown in figure 9.6 these stages are respectively : planning stage where opjectives are determined and the possible options and constraints are evaluated; risk analysis stage where risks are defind and possble solution methods are examined;; engineering stage where the product is developed; and finally enaluation stage where the pro duct is reviewed in the presene of customer . these stage start from the smallest and continuel until the completion of the product as a repeated cycle and accordingly named a spiral model.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+			 	6.sayfa
+
+Objectives: The following will be learned in this chapter.
+
+types of operating systems
+
+tasks of operating system
+
+memory management unit Linux family
+
+context switching
+
+multi-user systems
+
+process and management
+
+Windows and Unix families
+
+deadlock
+
+kernel
+
+An operating system, in short, is a collection of programs that serves as an interface between computer resources and users. Its aim is to offer an environment in which users run programs and to provide the efficient use of computer resources including both hardware and software.
+
+In general, the subject of operating system has a wide coverage in computer engineering; it is a subject that both developers and system engineers need to know thoroughly, and also it should be well known from a technical standpoint. Technically speaking, operating system is defined by Saatçi (1993) as follows: "A software system that aims to share the resources of computer system including hardware and software among users in such a way that it allows easy, fast and quality operating service, and also to maintain the highest level of efficiency in the use of those resources". [Saatçi- 1993] This is a true definition, but you need to add one more thing: "Operating sys- tem does not serve only to users, but also to the other programs."
+
+A computer system typically has four separate components:
+
+1. Hardware (CPU, memory, storage units, I/O units)
+
+2. Operating system
+
+3. Application programs and
+
+4. Users.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+			 	7.sayfa
+Initially, this interruption mechanism was used mainly in industrial control applica- tions and peripherals connection. Later, in the first half of 1960s, it was thought that many programs can use simultaneously the same processor (CPU) with the help of such a mechanism. Thus, if one of the programs has to wait an I/O operation, an- other program can use the processor and if that program also wait an I/O operation, the processor can be used by another program. Using computer systems in such a way is called multi-programming today.
+
+Multi-programming methods are used in other ways. Many programs may use the same processor for specific periods. In this way, it is possible to give the impression that all the programs installed in the system currently run in parallel. Especially if each of these programs is close the system or associated with the remote terminals, terminal users can use the system as though they are using the system alone.
+
+Systems in which this way of work is applied are called "multi-access" and the way of work is called interactive or time sharing.
+
+5.4. Types of Operating Systems
+
+Operating systems can be classified in several ways. For example:
+
+a) Working environment that they provide to users
+
+b) The way of access to the system c) Approaches followed in architecture
+
+can be examined indirectly dependent on each other in three dimensions. An operat- ing system can carry one of the first two-dimensional features, or a few of them to- gether that do not create a conflict.
+
+If an operating system provides the possibility of setting up only one display system. this system works in "mono-programming" order; if more than one display system can be installed simultaneously, it is possible to say that system works in "multipro- gramming" order. If display systems working together intersect for resources other than the processor, operating system allows simultaneous resource sharing.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+			 	8.sayfa
+
+Monoprogramming
+
+In a system based on mono-programming, only one virtual environment can be acti- vated and a user can use all the resources of the system. Errors that can occur in run-time do not reflect to another user or system; so, protection measures take place only between the operating system and a user. In a mono-programming order, re- source assignment, integrity problems etc. can be easily solved.
+
+. Multiprogramming
+
+Systems based on multiprogramming-based systems were designed to evaluate the waiting or suspended period of resources such as processor. If any job or program running in the system waits for input or output, synchronization etc. in this standby state processor can start another job and thus processor is used efficiently. In gen- eral, the difference between operating speeds of processor and input and output units is great; therefore the processor executes another job instead of waiting input or output process. This increases the utilization efficiency of the system.
+
+• Multitasking
+
+A task can be defined as the smallest operating unit that can operate independently in a system task. It is the main tool for performing a job on computer. The operating system performs a job by assigning at least one task and executing it. A job can be performed by a single task; this task can run the programs that meet the steps re- quired by that job; respectively compilation, binding and application steps.
+
+However, if you try to apply some of these steps in parallel, a separate task should be used for each step to be performed simultaneously. Operating systems that al- lows such a working environment are defined as multitasking operating systems.
+
+5.4.1. Classification According to System Usage and Access
+
+In a computer system, service production process consists of the following stages:
+
+Preparation + Presentation + Operating + Concluding
+
+In operating systems, arrangement of stages other than operating determines how users will be access to the computer system, how they will behave while receiving the service they need. Operating systems are classified as follows according to the approaches for preparation of working environment, transfer of the program to the operating system and transmission of the results to user:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+			 	9.sayfa
+
+Microprocessors and Assembly Programming
+
+
+Objectives: The following will be learned in this chapter.
+
+evolution of computers
+
+microprocessor architecture
+
+assembly language and properties
+
+addressing methods
+
+microprocessor concepts
+
+microprocessor-program relationship
+
+assembly language programming
+
+RISC and CISC architecture
+
+Hardware innovation that is a real leading force in information technology and mi- croprocessors that play a major role in improvements, direct also many sectors. The main ones are these: Memory technologies (DDR, SRAM, hard disk, and flash disk), internal or external peripherals such as disk, DVD and video, audio and communi- cation cards, power sources or battery and also operating systems, compilers, or ap- plications that manage and use this equipment.
+
+Computer engineering includes the microprocessor system design as well as the de- sign of the microprocessor that may be considered as the center of all devices with- in the concept of computer. After learning digital/logic design and the basic princi- ples of hardware units, architectural structures are required to be learned to design a microprocessor.
+
+Microprocessor architectures and assembly language related to these architectures have a very close relationship. In order to use assembly language effectively, mi- croprocessor architecture and interior units should also be known. Although it is often considered a disadvantage, it is used inevitably in very low-level (in detail) designs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+			 	10.sayfa
+
+9.3. Yazılım Geliştirme Süreci
+
+Bilgisayar sistemi mühendisliğinin önemli geliştirme etkinliklerinden biri olan yazılım geliştirme süreci belirli aşamalardan oluşmaktadır. Her türlü yazılımın bir sistem olarak değerlendirildiğinden, öncelikle, sistemin ne gibi işlevler yerine getireceği, nasıl bir donanım ve yazılım gerektiği belirlenir. Yazılım kapsamı tanımlandıktan yazılım ge- liştirme sürecinin uygulanmasına başlanır [Saridoğan-20041.
+
+9.3.1. Yazılım İsterleri Çözümlemesi
+
+Yazılım geliştirme sürecinin başarısı için gereksinimlerin ve yazılım isterlerinin çok iyi anlaşılması gerekir. Bir bilgisayar programı ne kadar iyi tasarlanmış ve yazılmış olursa olsun müşteri isteklerini tam olarak karşılayamıyorsa başarılı olmuş sayılamaz. Bu du- rumdan hem müşteri hem de geliştirici olumsuz olarak etkilenir. Bu nedenle, sistem isterleri belirlendikten sonraki yazılım geliştirme sürecinin başlangıcında yer alan Ya- zılım İsterleri Çözümlemesi (software requirements analysis) aşamasında, müşterinin yazılımdan bekledikleri tam olarak belirlenir, gereksinimler açıklığa kavuşturulur, ya- zılım isterleri modellenir ve tanımlanarak sonraki aşamalar için temel oluşturulur. Sis- temde yazılıma ayrılan rolün gerçekleştirilmesi için isterlerin belirlenmesi, yazılımın "Ne" yapacağının tanımlanması bu aşamada yapılır.
+
+Çözümleme
+
+Yazılım isterleri çözümlemesi, bu iş için yeterince deneyime sahip çözümleyici adı ve- rilen kişiler tarafından yapılır. Çözümleyici, Sistem Belirtimi belgesini inceleyerek problemin ne olduğunu, bunun için gerekli yazılımın kapsamını belirlemeye çalışır. Sonra problem alanını daha iyi anlayabilmek için hem müşteri ile hem de kendi örgüt- lenmesinde bu proje ile ilgilenen diğer birimlerle temas kurar. Bu temaslar yardımıyla mevcut sistemi anlamaya ve problemi iyice çözümlemeye çalışır. Sistemi etkileyen gi- riş/çıkış etkinliklerini (veri girişi, raporlama, altsistem denetimi gibi) ve kısıtlamaları (sistem yanıt süresi, gerçek zamanlılık gibi) dikkate alarak yazılım işlevlerini tanımlar. Çözümleme aşamasında genel olarak yazılımın ne yapması gerektiğini ortaya konur. uygulama alanı isterleri, kullanıcı isterleri ve işlevsel isterler belirlenir. Sistemin çalış- ma şekli, veri akışı ve işlevselliği modellenir. Elde edilen tüm bilgiler toplanarak belge haline dönüştürülür ve müşteri ile beraberce gözden geçirilir.
+
+İsterlerin Tanımlanması
+
+İsterler çözümlemesi sırasında üretilen belirtim belgesinde isterleri tanımlamak üzere çeşitli teknikler kullanılır. Bunlardan en yaygın olanlar şunlardır:
+
+• Kullanım senaryoları (use cases)
+
+Veri akış diyagramları (data flow diagrams)
+
+• Varlık ilişki diyagramları (entity-relationship • Nesne diyagramları (object diagrams)
+
+Işleklik diyagramları (activity diagrams) • Etkileşim divagramları (interaction diagrams)

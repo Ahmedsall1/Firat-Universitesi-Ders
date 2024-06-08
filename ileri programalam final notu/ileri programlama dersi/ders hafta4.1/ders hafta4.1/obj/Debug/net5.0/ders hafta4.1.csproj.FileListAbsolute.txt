@@ -1,0 +1,16 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.deps.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.runtimeconfig.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ref\ders hafta4.1.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\bin\Debug\net5.0\ders hafta4.1.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.AssemblyInfo.cs
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ref\ders hafta4.1.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\ders hafta4.1\ders hafta4.1\obj\Debug\net5.0\ders hafta4.1.genruntimeconfig.cache

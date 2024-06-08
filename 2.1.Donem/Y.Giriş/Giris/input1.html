@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function degistir(s) {
+            var deger = parseInt(s)
+            document.getElementById("prog").value = deger;
+            document.getElementById("mtr").value = deger;
+        }
+
+        function renkdegistir() {
+            var renkk = document.getElementById("renk").value;
+            cikis.vlaue = renkk;
+        }
+    </script>
+</head>
+
+<body>
+    <form onsubmit="return false" oninput="sonuc.value=parseInt(x.value)+parseInt(y.value)">
+        <input type="number" name="x" step="any">+<input type="number" name="y" step="any">=
+        <output name="sonuc"></output>
+    </form>
+    <br>
+    <meter value="70" min="0" max="100" low="50"></meter>
+    <br>
+
+    <form>
+        <input type="text" id="metin" placeholder="0-100 arasi">
+        <input type="button" value="degisklik_yap" onclick="degistir(metin.value)">
+        <progress id="prog" max="100"></progress>
+        <br>
+        <meter id="mtr" value="40" min="0" max="100" low="50"></meter>
+    </form>
+
+
+    <label>en sevdiniz renk</label>
+    <input id="renk" name="renk" type="color" onchange="renkdegistir()">
+    <output id="cikis"></output>
+    <br>
+    <label>tatil araligi</label>
+    <input type="data" name="tarih" id="tarih" min="2020-09-01" max="2020-12-31" value="2020-11-24" step="2">
+</body>
+
+</html>

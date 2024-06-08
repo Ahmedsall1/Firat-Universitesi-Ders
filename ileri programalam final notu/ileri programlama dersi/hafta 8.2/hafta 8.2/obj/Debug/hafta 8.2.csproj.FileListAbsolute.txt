@@ -1,0 +1,10 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\bin\Debug\hafta 8.2.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\bin\Debug\hafta 8.2.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\bin\Debug\hafta 8.2.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta_8._2.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta_8._2.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta 8.2.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta 8.2.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta 8.2.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta 8.2.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\hafta 8.2\hafta 8.2\obj\Debug\hafta_8._2.Form2.resources

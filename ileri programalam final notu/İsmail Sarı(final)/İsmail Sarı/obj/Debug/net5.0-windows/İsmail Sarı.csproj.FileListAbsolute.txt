@@ -1,0 +1,42 @@
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.exe
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.deps.json
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.runtimeconfig.json
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.runtimeconfig.dev.json
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.dll
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\ref\İsmail Sarı.dll
+C:\Users\sarii\source\repos\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.pdb
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.AssemblyReference.cache
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form1.resources
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form2.resources
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form3.resources
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form4.resources
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.GenerateResource.cache
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.AssemblyInfoInputs.cache
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.AssemblyInfo.cs
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.CoreCompileInputs.cache
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.dll
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\ref\İsmail Sarı.dll
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.pdb
+C:\Users\sarii\source\repos\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.genruntimeconfig.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.exe
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.deps.json
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.runtimeconfig.json
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.runtimeconfig.dev.json
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.dll
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\bin\Debug\net5.0-windows\İsmail Sarı.pdb
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.AssemblyReference.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form1.resources
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form2.resources
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form3.resources
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail_Sarı.Form4.resources
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.GenerateResource.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.AssemblyInfoInputs.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.AssemblyInfo.cs
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.csproj.CoreCompileInputs.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.dll
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\refint\İsmail Sarı.dll
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.pdb
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\İsmail Sarı.genruntimeconfig.cache
+C:\Users\usama\Downloads\İsmail Sarı\İsmail Sarı\obj\Debug\net5.0-windows\ref\İsmail Sarı.dll

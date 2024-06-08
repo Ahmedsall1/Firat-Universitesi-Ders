@@ -1,0 +1,30 @@
+1. Yazılım Gereksinim Mühendisliğinin Temelleri. Temel Kavramlar.
+
+2. Yazılım Yaşam Döngüsü Kavramı. Planlama Çözümleme Tasarım Gerçekleştirme Bakım. Fazlar ve fazların
+gereksinimlerle ilişkisi. Yazılım yaşam döngüsü içerisinde gereksinim mühendisliği.
+
+3. Yazılım Süreç Modelleri. Gereksinim çıkartımı ve modellemesi: sorunlar ve teknikler.
+
+4. Gereksinimlerin dökümanlaştırılması ve yönetimi. Gereksinim Tanımlaması ve Dökümantasyonu.
+
+5. Çevik Yazılım Metodolojisi ve Çevik Yazılım Şemsiyesi. Çevik Modelde Gerekensinim Yönetimi.
+
+6. Proje Kavramı. Proje özellikleri ve Proje Yönetimi. Standartlar ve CASE araçları. Bilişsel ve sosyo-organizasyonel
+konular.
+
+7. Farklı konsept projelerde Gereksinim Mühendisliği Aktivitelerinin Gerçekleştirilmesi.
+
+8. Ara Sınav
+
+9. Farklı konsept projelerde Gereksinim Mühendisliği Aktivitelerinin Gerçekleştirilmesi.
+
+10. Use case’ler, User Storyler, Kısıtlar, Arayüzler ile Gereksinim Analizi Dökümanlarının oluşturulması.
+
+11. Use case’ler, User Storyler, Kısıtlar, Arayüzler ile Gereksinim Analizi Dökümanlarının oluşturulması.
+Gereksinim Yönetimi: Bakım, Kontrol ve Doğrulama.
+
+12. Beyin Fırtınası ve Fikir Çimlenmesi ile Gereksinimlerin belirlenmesi ve Doğrulanması.
+
+13. Mevcut Pazar Ürünlerinin Gereksinimlerinin Belirlenmesi için Teknikler
+
+14. Pazarda Bulunmayan Ürünlerin Gereksinimlerinin Belirlenmesi için Teknikler

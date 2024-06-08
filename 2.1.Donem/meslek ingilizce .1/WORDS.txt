@@ -1,0 +1,100 @@
+1.
+cycles		دورات		döngüler
+inside		داخل		içeri	
+information	معلومة		bilgi
+2.
+encoded		مشفر		kodlanmış
+patterns		أنماط - رسم		desenler
+digits		أرقام		basamak
+3.
+called		مسمي		isminde
+individual		فرد		bireysel
+stored		مخزن		saklanmış
+4.
+manipulate	يتلَاعب ب		manipule etmek
+convenient	مناسب		uygun
+imagine		يتصور		düşünmek
+5.
+represents		يمثل		temsil etmek
+boolean		قيمة منطقية		mantıksal
+differs		يختلف		farklılık gösterir
+6.
+vice versa		والعكس صحيح	tersine
+gate		بوابة		geçit
+behaves		يتصرف		davranır
+7.
+followed		يتبع		takip etti
+immediately	فورا		hemen
+opposite		عكس		karşısında
+8.
+fashion		ازياء		moda
+defining		تعريف		tanımlayıcı
+retrieving		استرداد		Alma
+9.
+structural		الهيكلي		yapısal
+systematic		نظامي		sistematik
+way		طريق		yol
+10.
+step		خطوة		adım
+procedure		إجراء		prosedür
+which		التي		hangisi
+11.	
+defines		يحدد		tanımlar
+instructions	تعليمات		Talimatlar
+executed 		تنفيذ		Uygulanması
+12.
+certain		تأكيد		belirli
+order		ترتيب		sipariş
+desired		مراد		İstenen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

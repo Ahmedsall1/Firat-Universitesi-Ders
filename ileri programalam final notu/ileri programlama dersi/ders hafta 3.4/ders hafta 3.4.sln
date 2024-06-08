@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders hafta 3.4", "ders hafta 3.4\ders hafta 3.4.csproj", "{0150D29B-C8EC-4D92-9D0D-2F14604EA44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0150D29B-C8EC-4D92-9D0D-2F14604EA44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0150D29B-C8EC-4D92-9D0D-2F14604EA44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0150D29B-C8EC-4D92-9D0D-2F14604EA44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0150D29B-C8EC-4D92-9D0D-2F14604EA44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FCE4F4-4BE5-4E7B-921E-BB7EAFD47B10}
+	EndGlobalSection
+EndGlobal

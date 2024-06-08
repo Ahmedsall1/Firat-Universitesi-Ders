@@ -1,0 +1,16 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.AssemblyInfo.cs
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.deps.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.runtimeconfig.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\ref\DERS ÇALIŞMASI.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\bin\Debug\net5.0\DERS ÇALIŞMASI.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\ref\DERS ÇALIŞMASI.dll
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\DERS ÇALIŞMASI\DERS ÇALIŞMASI\obj\Debug\net5.0\DERS ÇALIŞMASI.genruntimeconfig.cache

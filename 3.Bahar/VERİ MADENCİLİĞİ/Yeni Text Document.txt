@@ -1,0 +1,5 @@
+https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
+
+https://www.kaggle.com/
+
+https://colab.research.google.com/#scrollTo=GJBs_flRovLc

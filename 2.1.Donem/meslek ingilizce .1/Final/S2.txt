@@ -1,0 +1,34 @@
+1- (20 Points)
+	Write the names of four techniques which are used to identify the requirements in specification document during 	requirement analysis.
+
+2- (20 Points)
+	Translate the sentence paragraph in English language.
+
+	"Yazılım geliştirme sürecinin başarısı için gereksinimlerin ve yazılım isterlerinin çok iyi anlaşılması gerekir."
+
+3- (20 Points)
+ 	Translate the following paragraph into Turkish language.
+
+	"In order to operate on an input value, it should be kept in the computer memory. Programs operate on data stored in 	memory and store the results again in memory as data."
+
+4- (20 Points) 
+	Write True or False at the end of the sentences about XOR gate?
+
+	a) It is sometimes used in machine code to clear a register. 
+	b) It helps in creating Half Adder circuits.
+	c) It is used in sequence detection or correlation.
+	d) It helps us to know if the two signals are equal to each other or not.
+	e) It is used in parity check.
+	f) It is useful in encryption in information theory.
+	g) It is used in a door with a lever to open/close it on both sides
+	h) It can be used in a door with a lever to open/close it on both sides
+
+5- (20 Points) Fill in the blanks
+
+a) -------------------has been created by combining the best aspects of both classical andprototyping method. 
+
+b) Experience has shown that a system--------------- costs may be close to or even higher than the total cost of other stages of the system. price and progress billing.
+
+c)------------------- model is a suitable method for the projects which are particularly well-defined, have definite requirements, and are unexpected to take more time in which payments are made according to a fixed
+
+d) The operation ------------------------ is another Boolean operation. It differs from AND, OR, and XOR because it has only one input.

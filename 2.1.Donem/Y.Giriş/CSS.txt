@@ -1,0 +1,115 @@
+@font-face
+	Font face özelliği, bilgisayarımızda hazır olarak gelen yazı 	tiplerinin ( Arial, Verdana vb..) dışında istediğimiz yazı tiplerini 	kullanmamıza olanak sağlar.
+font	
+	Diğer font özelliklerini tek Css özelliği (font) ile tanımlamamızı 	sağlar.
+
+font-family
+	Yazıların tipini yani hangi font ailesinden olmasını istiyorsak 		onu belirtmek için kullanılır. Değer olarak sadece bir yazı tipi 		verebildiğimiz gibi birden fazla değerde verebiliriz. Çünkü 		verdiğimiz ilk değeri tarayıcı desteklemiyorsa bir sonraki 		verdiğimiz değeri uygulayacaktır.
+font-size	
+	Bu özellik ile yazı boyutlarını ayarlayabiliyoruz. Yazı boyutuna 		px veya em türünden değerler veriyoruz. Tarayıcılar varsayılan 		olarak yazı boyutunu 16px uygularlar.
+	font-style	
+	Yazıları italik yapmak için kullanılır. font-style özelliğine şu 		değerleri verebiliriz:
+	italic
+	normal
+	oblique : İtalic değerine çok benzer ama daha az tarayıcı 		tarafından desteklenir.
+
+font-variant
+	Yazılarda küçük harfleri büyük harflere çevirmek için kullanılır. 		Burada şuna dikkat etmemiz gerekiyor. Eğer yazıda hepsi küçük 		harf ise dönüştürdüğümüzde hepsi aynı boyutta büyük harfe 		dönüşecektir. Eğer yazıda hem büyük hem küçük harfler varsa, 		dönüştürdüğümüzde yine hepsi büyük harf olacaktır ama 		önceden zaten büyük harf olanlar yeni dönüştürülenlerden biraz 	daha büyük olacaktır.
+	font-variant özelliğine şu değerleri verebiliriz:
+
+small-caps :
+	 Küçük harfleri büyük harflere dönüştürür.
+	normal
+
+font-weight	
+	Bu özellik ile yazıların kalınlık incelik durumlarını 		ayarlayabiliriz. font-weight özelliğine şu değerleri verebiliyoruz:
+	bold
+	bolder
+	lighter
+	normal
+	100’den 900’e kadar 100’ün katları olacak şekildede verilebilir. 		900 en kalını iken, 100’e doğru incelir ve 100’de en ince halini 		alır.  
+
+color
+	Bu özellik ile yazılara istediğimiz renkleri verebiliriz. Dilerseniz 	direk renk adını verebileceğiniz gibi renklerin rgb ve hex 	kodlarınıda kullanabilirsiniz. Renk kodlarıyla ilgili daha fazla 	bilgi edinmek isterseniz Tüm Renk İsimleri ve Renk Kodları 	(Html, Css, Hex, Rgb) yazımı inceleyebilirsiniz.
+
+letter-spacing	
+	Yazıların karakterleri arasındaki boşluğu arttırmak veya 	azaltmak için kullanılır. Negatif değerler verdiğimizde aradaki 	boşluklar azalır.
+
+line-height
+	Satır yüksekliğini belirlemek için kullanılır.
+
+word-break	
+	Satır sonlarındaki kelimeleri, satırı tam kaplayacak şekilde 	bölmek için kullanılır. word-break özelliğine şu değerleri 		verebiliriz:
+	keep-all : Varsayılan olarak gelen değer.Satır sonundaki 	kelimeler bölünmez.
+	break-word : Satır sonundaki sığmayan kelimeler bölünür.
+	
+word-spacing	
+	Yazıların kelimeleri arasındaki boşluğu 	arttırmak veya 	azaltmak için kullanılır. Negatif değerler 	verdiğimizde aradaki 	boşluklar azalır.
+
+white-space	
+	Yazılardaki boşlukların nasıl değerlendirileceğini belirlemek 		için kullanılır. white-space özelliğine şu değerleri verebiliriz:
+	-normal
+	-nowrap
+	-pre
+	-pre-line
+	-pre-wrap
+	
+word-wrap	
+	Bulunduğu alana sığmayacak kadar uzun olan kelimeleri satır 	sonundan bölmek için kullanılır. word-wrap özelliğine şu 		değerleri verebiliriz:
+	normal : Varsayılan olarak gelen değer.
+	break-word : Sığmayan kelimeyi böler.
+
+writing-mode	
+	Yatay şekilde olan yazıları dikey hale getirmek için kullanılır. 	writing-mode özelliğine şu değerleri verebiliriz:
+
+	horizontal-tb : Yazı yatay halde olur.
+	vertical-lr : Yazı dikey halde olur.
+	vertical-rl : Yazı dikey halde olur.
+	
+text-transform	
+	Yazılarda küçük harfleri büyük harfe, büyük harfleri küçük 	harfe dönüştürmek için kullanılır. Aynı zamanda sadece ilk 	harfleri büyük diğerleri küçük olacak şekilde kelime ve 	cümlelerde oluşturabiliriz. text-transform özelliğine şu değerleri 	verebiliriz:
+
+	uppercase : Küçük harfleri büyük harfe dönüştürür.
+	lowercase : Büyük harfleri küçük harfe dönüştürür.
+	capitalize : İlk harf büyük diğer harfler küçük olacak şekilde 	dönüştürür.
+
+text-align	
+	Yazıları yatayda hizalamak için kullanılır. Yani yazının sağda, 	solda, ortada veya sağa ve sola dayalı şekilde olmasını 	sağlayabiliriz. text-align özelliğine şu değerleri verebiliriz:
+
+	right
+	left
+	center
+	justify
+	end
+	start
+	
+text-decoration	
+	Yazıların altını, üstünü, üzerini çizmek veya çizili olanları 	kaldırmak için kullanılır. text-decoration özelliğine şu değerleri 	verebiliriz:
+
+	underline : Yazının altını çizer.
+	line-through : Yazının üzerini çizer.
+	overline : Yazının üstünü çizer.
+	none : Varolan etkileri kaldırır.
+
+text-decoration-color
+	Yazıların altını, üstünü ve üzerini hangi renk ile çizeceğimizi 		belirtmek için kullanılır.
+
+text-decoration-style	
+	Yazıların altını, üstünü ve üzerini hangi stil ile çizeceğimizi 	belirtmek için kullanılır. Örneğin düz çizgi, kesikli çizgi vb.
+
+text-indent
+	Paragrafın ilk cümlesinin vereceğimiz değer ölçüsünde içeriden 	yani girintili olarak başlaması için kullanılır. Değeri px olarak 	verebiliriz.
+
+text-shadow	
+	Yazılara gölge efekti vermek için kullanılır. Vereceğimiz 	değerler ile gölgenin x ve y eksenindeki konumunu, 		bulanıklığını ve rengini belirleriz.	
+	İlk verilen değer x ekseni, ikinci verilen değer y ekseni, üçüncü 		verilen değer bulanıklık, dördüncü verilen değer de rengi için 		uygulanır.
+
+text-overflow	
+
+	Bu özellik ile yazılarımızın sığmadığı durumlarda yazının 	devamının olduğunu belirtmek için “…” (üç nokta) koyabiliriz. 		text-overflow özelliğine şu değerleri verebiliriz:
+	clip : Varsayılan olarak gelen değer.
+	ellipsis : Yazının taştığını belirten “…” (üç nokta) koyar.
+
+
+
+

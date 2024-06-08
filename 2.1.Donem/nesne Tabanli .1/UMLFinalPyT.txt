@@ -1,0 +1,103 @@
+
+class LibraryManagementSystem:
+    def __init__(self):
+        self.UserType = None
+        self.UserName = None
+        self.Password = None
+
+    def Login(self, ):
+        pass
+
+    def Register(self, ):
+        pass
+
+    def Logout(self, ):
+        pass
+
+class Book:
+    def __init__(self):
+        self.Title = None
+        self.Auther = None
+        self.ISBN = None
+        self.Publication = None
+
+    def Show_duedt(self, ):
+        pass
+
+    def Reservation_status(self, ):
+        pass
+
+    def Feedback(self, ):
+        pass
+
+    def Book_request(self, ):
+        pass
+
+    def Renw_info(self, ):
+        pass
+
+class Librarian:
+    def __init__(self):
+        self.Name = None
+        self.ID = None
+        self.Password = None
+        self.SearchString = None
+
+    def Verify_librarian(self, ):
+        pass
+
+    def Search(self, ):
+        pass
+
+class Librarydatabase:
+    def __init__(self):
+        self.List_of_books = None
+
+    def Add(self, ):
+        pass
+
+    def Delete(self, ):
+        pass
+
+    def Update(self, ):
+        pass
+
+    def Display(self, ):
+        pass
+
+    def Search(self, ):
+        pass
+    
+class User:
+    def __init__(self):
+        self.Name = None
+        self.ID = None
+
+    def Verify(self, ):
+        pass
+
+    def CheckAccount(self, ):
+        pass
+
+    def get_book_info(self, ):
+        pass
+
+class Account:
+    def __init__(self):
+        self.no_borrowed_books = None
+        self.no_reserved_books = None
+        self.no_returned_books = None
+        self.no_lost_books = None
+        self.fine_amount = None
+
+    def Calculate_fine(self, ):
+        pass
+
+class Staff(User):
+    def __init__(self):
+        self.Dept = None
+
+class Student(User):
+    def __init__(self):
+        self.Class = None
+

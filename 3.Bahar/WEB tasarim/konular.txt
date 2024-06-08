@@ -1,0 +1,15 @@
+1. Sayı sistemleri
+2. Sayı kodları, ikili mantık, bool cebri
+3. Bool fonksiyonları ve teoremler,Kanonik gösterimler
+
+4. Karnaugh haritaları
+5. Kombinasyonel devreler
+6. Toplayıcılar, çıkarıcılar, çarpıcılar
+7. Kodlayıcılar, kod çözücüler
+8. Sıralı devreler, flip-flop’lar, ARA SINAV
+9. Sıralı devre tasarımı
+10. Sıralı devre tasarımı
+11. Dijital/Analog ve Analog/Dijital Çeviriciler
+12. Bellek elemanları
+13. Sayıcılar
+14. Hafızalar, hafıza kodlama

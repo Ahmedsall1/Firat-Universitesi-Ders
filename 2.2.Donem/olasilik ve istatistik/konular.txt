@@ -1,0 +1,27 @@
+1. Olasılık ve istatistik ile ilgili temel kavramlar
+
+2. Rassal değişkenler ve özel fonksiyonları
+
+3. Dağılım ve yoğunluk fonksiyonları
+
+4. Çok değişkenli dağılımlar ve yoğunlukları
+
+5. Bağımsız rassal değişkenler
+
+6. Korelasyon istatistiğinin mühendislik sistemlerine uygulanması
+
+7. Sayma Teknikleri; Çarpım Kuralı, Permütasyon, Kombinasyon. Olasılık Kavramı
+
+8. ARA SINAV
+
+9. Sigma Cebri, Olasılılık Aksiyomları, Koşullu Olasılık, Çıkaran Fonksiyonlar
+
+10. Sigma Cebri, Olasılılık Aksiyomları, Koşullu Olasılık, Çıkaran Fonksiyonlar
+
+11. Karar Teorisi. Kestirim Kavramı. Hipotez Testi,
+
+12. Parametrik Olmayan Testler, Korelasyon ve Regresyon
+
+13. Parametrik Olmayan Testler, Korelasyon ve Regresyon
+
+14. Mühendislik Uygulamaları

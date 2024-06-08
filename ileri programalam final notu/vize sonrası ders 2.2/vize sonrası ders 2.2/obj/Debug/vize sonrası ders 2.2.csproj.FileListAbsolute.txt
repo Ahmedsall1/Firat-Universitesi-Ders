@@ -1,0 +1,10 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\bin\Debug\vize sonrası ders 2.2.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\bin\Debug\vize sonrası ders 2.2.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\bin\Debug\vize sonrası ders 2.2.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize sonrası ders 2.2.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize_sonrası_ders_2._2.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize_sonrası_ders_2._2.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize sonrası ders 2.2.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize sonrası ders 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize sonrası ders 2.2.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders 2.2\vize sonrası ders 2.2\obj\Debug\vize sonrası ders 2.2.pdb

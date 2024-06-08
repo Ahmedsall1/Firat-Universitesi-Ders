@@ -1,0 +1,48 @@
+
+Aşağıdakilerden hangisi iyi bir yazılım özelliklerinden biri değildir?
+
+O a. Bakım kolaylığı
+#O b. Okunabilirlik
+O c. Güvenilirlik ve güvenlik
+O d. Verimlilik
+O e. Kabul edilebilirlik
+
+Fonksiyonel gereksinimler aşağıdakilerden hangisini tanımlamaz?
+
+O a.Sistemin belirli girdilere tepkileri
+#O b.Sistemin girdi/çıktı cihazlarının yetenekleri
+O c.Sistemin belirli durumlarda davranışları	
+O d.Sistemin yapmaması gerekenleri	
+O e. Sistemin sunması gereken servisleri	
+
+1-Gereksinimlerin net bir biçimde tanımlamamasından dolayı, yanlışların düzeltilme ve
+	eksikliklerin giderilme maliyetleri yüksektir.
+2-Yazılım üretim ekibi bir an evvel program yazma ve çalıştırma eğilimindedir.
+3-Üst düzey yöneticilerin ürünü görme süresi uzundur. Bu nedenle proje gider merkezi
+	gibi düşünülür. 
+Yukarıda verilen sorunlar hangi süreç modelinde görülmektedir????????????????????????????
+
+O a. Çevik Model
+O b. Barok model
+O c. Gelişigüzel model
+O d. Evrimsel model
+O e. Çağlayan model
+
+
+şağıdakilerden hangisi Eş programlamanın avantajlarından biridir?
+
+O a. Ürün, anlaşılabilir ve yönetilebilir küçük parçalara bölünür.
+#Ob. Sistem sorumluluğunun ortak olarak alınmasını sağlar.
+O c. Belirsiz gereksinimler süreci tıkamaz.
+O d. Bütün takım her şeyi görür ve böylece takım iletişimi artar.
+O e. Müşteri, her küçük sürümün zamanında teslim edildiğini görür.
+
+Belgeleme işlevini ayrı bir işlev olarak ele almayan ve üretimin doğal bir parçası olarak
+gören ve yazılım tanımlarında belirsizlik yok ya da az belirsizlik varsa ve yazılım
+üretiminin çok uzun zaman alması beklenmiyor ise hangi süreç modeli önerilmektedir?
+
+O a. Barok modeli
+O b. Gelişigüzel model
+O c. Çağlayan model
+O d. Evrimsel model
+O e. Çevik model

@@ -1,0 +1,130 @@
+1. işletim sistemlerine Giriş :
+
+	· İşletim sistemi ne iş yapar?
+	· Bilgisayar sistemi organizasyonu
+	· Bilgisayar sistemi mimarisi
+	· İşletim sistemi yapısı
+	. İşletim sistemi işlemleri
+	. Process yönetimi
+	· Memory yönetimi
+	· Storage yönetimi
+	. Koruma ve güvenlik
+	. Kernel veri yapıları
+	. Hesaplama ortamları
+	· Açık kaynak işletim sistemleri
+	
+2. İşletim Sistemi Yapıları :
+	
+	· İşletim sistemi servisleri
+	· Kullanıcı ve işletim sistemi arayüzü
+	· Sistem çağrıları
+	· Sistem çağrı türleri
+	· Sistem programları
+	· İşletim sistemi tasarımı ve gerçekleştirimi
+	· İşletim sistemi yapısı
+	· İşletim sistemi debugging
+	· İşletim sistemi üretilmesi
+	· Sistem boot
+
+3 Proces'ler :
+	· Process kavramı
+	. Process planlama
+	· Process işlemleri
+	· Process'ler arası iletişim
+	· İstemci-sunucu sistemlerde iletişim
+
+4. Thread'ler :
+
+	· Thread'ler
+	· Thread'lerin sağladığı faydalar
+	. Multicore programlama
+		· Multicore programlamanın zorlukları
+		· Paralel çalışma türleri
+	· Multithreading modelleri
+		. Many-to-one
+		. One-to-one
+		. Many-to-many
+	· Thread kütüphaneleri
+	· Dolaylı thread oluşturma
+	· Thread çalıştırma kuralları
+	. Windows ve Linux thread'leri
+
+5. Process Senkronizasyonu :
+
+	· Process senkronizasyonu
+	· Kritik bölüm problemi
+	· Peterson çözümü
+	· Senkronizasyon donanımı
+	· Mutex kilitlenmeleri
+	· Semaforlar
+	· İzleyiciler
+	· Alternatif yaklaşımlar
+
+6. CPU Scheduling :
+	
+	. Temel kavramlar
+	· Scheduling kriterleri
+	· Scheduling algoritmaları
+	· Çoklu process veya scheduling
+	· Gerçek zamanlı CPU scheduling
+
+7. Deadlocks : 
+	· Sistem modeli
+	· Deadlock tanımı ve özellikleri
+	· Deadlock yönetimi için metotlar
+	· Deadlock önleme
+	· Deadlock'tan kaçınma
+	· Deadlock algılama
+	· Deadlock'tan kurtulma
+
+8. Ana Bellek : 
+ Sanal Bellek :
+
+· Giriş
+. Swapping
+· Bitişik hafıza atama
+· Segmentation
+- Paging
+
+10. Kütük İşlemleri :
+
+	· Giriş
+	. Demand paging
+	. Copy-on-write
+	. Page replacement
+	. Allocation of frames
+	· Thrashing
+
+9. Dosya Sistemi Arayüzü ve Uygulaması :
+
+· File yaklaşımı
+· Erişim yöntemleri
+· Dizin ve disk yapısı
+· Dosya sistemi oluşturma
+· Dosya paylaşımı
+· Koruma
+
+11. I/O Sistemleri :
+
+	· Giriş
+	· I/O donanımı
+	· I/O arayüz uygulaması
+	· I/O isteklerinin donanımsal işlemlere dönüştürülmesi
+	. Performans
+
+12. Koruma ve Güvenlik :
+
+· Korumanın amacı
+· Korumanın temelleri
+· Koruma alanı
+· Erişim matrisi
+· Erişim haklarının geri alınması
+· Güvenlik problemi
+· Program tehditleri
+· Sistem ve ağ tehditleri
+· Kriptolojinin güvenlik aracı olarak kullanımı
+· Kullanıcı kimlik doğrulama
+· Sistemler ve ağlar için firewall kullanımı
+
+
+	

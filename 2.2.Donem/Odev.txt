@@ -1,0 +1,44 @@
+#include <stdio.h>
+
+int Harfsayisi( char* liste , int i){
+    if(Harfsayisi[i]!='\0'){
+        i++;
+        return Harfsayisi(liste , i);
+    }
+    return i;
+}
+
+int main (){
+    char liste[255];
+    printf("cumle yazin :");
+    gets(liste);
+    int s = Harfsayisi(liste , 0);
+    printf("harf sayisi : %d ",s);
+
+    return 0;
+}
+
+///////////////////////////
+
+#include <stdio.h>
+
+int Harfsayisi( char* liste){
+    int i=0 ;
+    while (liste[i]!='\0' ){
+        i++;
+
+        if(liste[i]=='\0')
+            return i;
+    }
+    return i;
+}
+
+int main (){
+   char liste[255];
+    printf("cumle yazin :");
+    gets(liste);
+    int a = Harfsayisi(liste);
+    printf("harf sayisi : %d ",a);
+
+    return 0;
+}

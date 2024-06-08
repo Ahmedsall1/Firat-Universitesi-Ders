@@ -1,0 +1,10 @@
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\bin\Debug\vize sonrası ders bilmem kaç 4.exe.config
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\bin\Debug\vize sonrası ders bilmem kaç 4.exe
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\bin\Debug\vize sonrası ders bilmem kaç 4.pdb
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.csproj.AssemblyReference.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize_sonrası_ders_bilmem_kaç_4.Properties.Resources.resources
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.csproj.GenerateResource.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.csproj.CoreCompileInputs.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.exe
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası ders bilmem kaç 4\obj\Debug\vize sonrası ders bilmem kaç 4.pdb

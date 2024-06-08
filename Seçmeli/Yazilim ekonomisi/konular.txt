@@ -1,0 +1,35 @@
+1. Giriş: Yazılım geliştirme, Ekonomi, Yazılım Mühendisliği Ekonomisi
+
+2. Ekonomiye Giriş: Mikro ekonomi, Makro ekonomi, İktisat bilimi
+
+3. Ekonomi Yaşam Döngüsü: Ürün, Proje, Program, Portföy, Ürün yaşam döngüsü, Proje yaşam döngüsü,
+Yazılım maliyetlendirme, Performans ölçümü
+
+4. Risk ve Belirsizlikler: Hedefler, Tahmin ve Planlama, Tahmin Teknikleri, Belirsizlikler, Risk altında kararlar,
+Belirsizlik altında kararlar
+
+5. Pratik Konular: Ekosistemler, Offshoring, Dış kaynak kullanımı, Basit ve bileşik faiz
+
+6. Yazılım Mühendisliği Ekonomisi Temelleri: Yazılım ekonomisi yaşam döngüsü, Finans, Muhasebe, Kontrol,
+Nakit Akışı, Karar Verme Süreci, Değerleme, Enflasyon, Amortisman, Vergilendirme, Para/Zaman Değeri,
+Verimlilik, Etkinlik, Üretkenlik
+
+7. Yazılım Maliyetlendirme Yöntemleri-1: Yazılım maliyetleme yöntemleri, basit yöntemler
+
+8. Yazılım Maliyetlendirme Yöntemleri-2: Cocomo modelleri, ARA SINAV
+
+9. Yazılım Maliyetlendirme Yöntemleri-3: En küçük kareler (Regresyon), karar ağaçları, dinamik programlama
+ile tahminleme yöntemleri
+
+10. Yazılım Girişimcilik Maliyetleme: Girişim maliyetleme, Emek tahmini, Kod satırı tahminleme, Bakım
+tahminleme
+
+11. Yazılım Ekonomisi Analiz Yöntemleri: Kar analizi, Minimum getiri analizi, Yatırım getirisi, Sermaye getirisi,
+Maliyet-Fayda analizi, Malieyt-Etkinlik analizi, Başabaş analizi, İş senaryosu, Optimizasyon analizi
+
+12. Yazılım Muhasebesi: Muhasebe, Vergi, Amortisman, Bilanço
+
+13. Firma Değerleme: Yazılım değerleme yöntemi, Veri bilimi, Büyük veri, Veri değerleme, Pazar araştırması
+
+14. Pazar Araştırması: Ürün sınıflandırma, Bilgi kaynakları tespiti, Veri sınıflandırma, Akademik araştırma,
+Patent araştırma

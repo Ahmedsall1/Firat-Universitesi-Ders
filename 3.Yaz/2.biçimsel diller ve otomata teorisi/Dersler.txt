@@ -1,0 +1,24 @@
+1-Otomata teorisine giriş, alfabe, sembol,
+	kelime ve dil kavramları
+
+2-Özyinelemeli tanımlar
+
+3-Düzenli ifadeler
+
+4-Sonlu Otomata
+
+5-Geçiş çizgeleri
+
+6-Çıktılı Sonlu Otomata
+
+7-Düzenli ve düzenli olmayan diller
+
+8-Durumdan bağımsız dilbilgileri
+
+9-Alta bastırmalı Otomata Teorisi
+
+10-Yığıtlı Otomata
+
+11-Ayrıştırma İşlemleri
+
+12-Turing Makineleri

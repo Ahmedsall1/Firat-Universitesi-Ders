@@ -1,0 +1,13 @@
+1- Ataturk ve inkilap     cikmis sorular
+2- turk dili 	    cikmis sorular
+3- Yazilim ekonomisi     cikmis sorular
+4- YGA		    cikmis sorular 
+5- mesleki ingilizge        cikmis sorular
+6- nesne tabanli 	    python - cikmis sorular - slat
+7- difransiyel denklem  cikmis sorular - slat
+8- bicimsel dilir 	    cikmis sorular - slat
+9- Y.giris		    cikmis sorular-html -css-php -sql
+10-fizik 1		    cikmis sorular -slat 
+
+
+

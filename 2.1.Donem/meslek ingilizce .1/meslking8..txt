@@ -1,0 +1,84 @@
+1. interruption mechanism
+	kesinti mekanizması
+	آلية الانقطاع
+
+2.industrial control applications
+	endüstriyel kontrol uygulamaları
+	تطبيقات التحكم الصناعي
+
+3.peripherals connection
+	çevre birimleri bağlantısı
+	اتصال الأجهزة الطرفية
+
+4.simultaneously
+	aynı anda
+	في الوقت نفسه
+
+5.operation
+	işlem
+	العملية
+
+6.specific periods
+	belirli dönemler
+	فترات محددة
+
+7.impression
+	etki
+	انطباع
+
+8.associated
+	birleşmiş
+	مرتبطة
+
+9.interactive
+	etkileşimli
+	تفاعلي
+
+10.Operating Systems
+	İşletim sistemleri
+	أنظمة التشغيل
+
+11.classified
+	sınıflandırılmış
+	مصنف.
+
+12.environment
+	çevre
+	بيئة
+
+13.provide
+	sağlamak
+	تزود
+
+14.Approaches
+	Yaklaşımlar
+	اقتراب
+
+15.architecture 
+	mimari\yapı
+	أسلوب بناء
+
+16.examined indirectly
+	dolaylı olarak incelendi
+	فحص بشكل غير مباشر
+
+17.dimensions
+	boyutlar
+	أبعاد
+
+18.conflict
+	anlaşmazlık
+	نزاع
+
+19.intersect
+	kesişmek
+	تتقاطع
+
+20.resources
+	kaynaklar
+	مصادر
+
+
+	
+	
+	

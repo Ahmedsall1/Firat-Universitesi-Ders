@@ -1,0 +1,45 @@
+1- Inside today's computers information is encoded as patterns of Os and 1s. These digits are
+
+called.BITS.
+
+2- To understand how individual bits are stored and manipulated inside a computer, it is convenient to imagine that the bit 0 represents the value.False. and the bit 1 represents the value.True.
+
+3- The operation.NOT. is another Boolean operation. It differs from AND, OR, and XOR because it
+
+has only one input.
+
+4- If the input of the operation NOT is true, then the output is.
+
+.False.and vice versa.
+
+5- The.NOT. gate behaves in the opposite fashion to AND gate. You can think of it as an AND gate followed immediately by a .NOT. gate.
+
+6- .A DATABASE . is a way of defining, storing & retrieving of data in a structural & systematic way.
+
+7- .ALGORITHM .is a step by step procedure, which defines a set of instructions to be executed in certain order to get the desired output.
+
+8- .SYSTEM.consists of programs + documentation + operating procedures
+
+9-  .Decision tree.can replace flowcharts.
+
+10- . ALGORITHM .are transformed into actual code or program during the implementation phase
+
+1- Depict a tree which has same preorder and inorder traversal.
+
+2- Depict a tree which has same postorder and inorder traversal.
+
+3. Depict a tree which has same preorder, inorder, and postorder traversal.
+
+4. Explain: "Reverse Engineering" and "Re-Engineering"
+
+5- Write the applications of XOR gate in computer engineering.
+
+6. Which problems can be solved with the tree data model?
+
+7- Which problems can be solved with the graph data model?
+
+8- Which problems can be solved with the state machine data model?
+
+9- Write the differences between arrays and linked lists?
+
+10-Write the definitions of job, task, process, and thread. What are the differences?

@@ -1,0 +1,7 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize sonrası 2.ders 1.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize_sonrası_2.ders_1.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize sonrası 2.ders 1.csproj.GenerateResource.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize sonrası 2.ders 1.csproj.AssemblyReference.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize sonrası 2.ders 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize_sonrası_2.ders_1.Form1.resources
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\vize sonrası 2.ders 1\vize sonrası 2.ders 1\obj\Debug\vize sonrası 2.ders 1.csproj.GenerateResource.cache

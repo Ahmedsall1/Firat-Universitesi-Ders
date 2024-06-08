@@ -1,0 +1,16 @@
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.exe
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.deps.json
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.runtimeconfig.json
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.runtimeconfig.dev.json
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.dll
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\bin\Debug\net5.0\son ders.pdb
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.csproj.AssemblyReference.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.AssemblyInfoInputs.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.AssemblyInfo.cs
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.csproj.CoreCompileInputs.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.dll
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\refint\son ders.dll
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.pdb
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\son ders.genruntimeconfig.cache
+C:\Users\usama\OneDrive\Desktop\ileri programalam final notu\ileri programlama dersi\son ders\son ders\obj\Debug\net5.0\ref\son ders.dll

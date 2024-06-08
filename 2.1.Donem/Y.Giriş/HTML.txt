@@ -1,0 +1,315 @@
+<!DOCTYPE html>: 
+Tüm HTML belgeleri bu kod ile başlamak zorundadır.
+ Bu kod aslında sayfanın HTML5 formatına göre kodlandığını gösterir.
+
+<html>:
+ Kök etiket olarak da bilinen bu temel kullanımda tüm HTML kodları, bu iki etiket arasında tanımlanmak zorundadır.
+
+<body>:
+ Görünebilir tüm HTML kod parçalarının eklendiği etiket alanıdır.
+
+<head>:
+ Web sayfasının dili, başlığı ve diğer düzenlemelerinin yer aldığı etikettir.
+
+<title>:
+ Web sitesinin başlık alanını tanımlamak için kullanılır. <title> etiketi, 
+<head>
+ etiketleri arasında olmak zorundadır.
+
+<meta charset=”utf-8″>:
+ HTML kodunun Türkçe karakter desteği dahil olmak üzere pek çok dil seti içerdiğini belirtir.
+
+<h1>Birinci başlık</h1>
+<h2>İkinci başlık</h2>
+<h3>Üçüncü başlık</h3>
+<h4>Dördüncü başlık</h4>
+<h5>Beşinci başlık</h5>
+<h6>Altıncı başlık</h6>
+
+Paragraf Kodu (<p>)
+
+Satır Sonu Kodu (<br>)
+
+Resim Kodu (<img>)
+
+Buton Kodu (<button>)
+HTML buton kodu, sayfalarınızı ilgi çekici yapmak ve etkileşimli içerikler oluşturmak için kullanılır. JavaScript ve HTML renk kodları ile daha güçlü hale gelen bu kod, içeriklerinizde kullanıcılarla etkileşime girmenizi sağlar.
+
+Bağlantı Kodu (<a>)
+
+Yatay Çizgi Kodu (<hr>)
+
+Başlıca Damgalar (Tags -- Takılar)
+<html></html>
+HTML kaynak dökümanı yaratır.
+
+<head></head>
+Kaynak dökümanın başlığıdır. Kaynağa ait veriler ve bazı genel komutlar içerir. Bu teknede yer alanlar web sayfasında görünmez.
+
+<body></body>
+Web sayfasının gövdesini yaratır. Burada yer alanlar, sayfada görünecek olanlardır.
+Adlandırma
+
+<title></title>
+Kaynak dökümana ad verir. Bu ad tarayıcını en üstünde görünür.
+Gövde Nitelemeleri (Body Attributes)
+
+<body bgcolor=?>
+Zemin (background) rengini belirler.
+
+<body text=?>
+Text (metin) rengini belirler.
+
+<body link=?>
+Link'in rengini belirler.
+
+<body vlink=?>
+Link gerçekleştikten sonraki rengi belirler.
+
+<body alink=?>
+Link'e tıklandığında alacağı rengi belirler.
+Metin Damgaları (Text Tags)
+
+<pre></pre>
+Önceden biçimlenmiş metinleri (preformatted text) olduğu gibi gösterir.
+
+<h1></h1>
+En büyük başlığı yazar.
+<h6></h6>
+En küçük başlığı yazar.
+
+<b></b>
+Koyu yazar.
+
+<i></i>
+İtalik yazar.
+
+<tt></tt>
+Teletype ya da daktilo-stili metin yaratır. Harf aralıkları orantılı olmak yerine hepsi eşit olur.
+
+<cite></cite>
+;
+Alıntıları belirgin kılmaya yarar. Genellikle italik biçemde yazar.
+
+<em></em>
+Metni belirgin kılar. Genellikle italik ya da koyu yazar.
+
+<strong></strong>
+Metni belirgin kılar. Genellikle koyu yazar.
+
+<font size=?></font>
+Harf büyüklüğünü belirler. 1 den 7 ye kadar derecelendirir. Başka ölçekler de kullanılır.
+
+<font color=?></font>
+Harf rengini belirler.
+Links
+
+<a href="URL"></a>
+Hyperlink yaratır.
+
+<a href="mailto:EMAIL"></a>
+Bir mailto link'i yaratır.
+
+<a name="NAME"></a>
+Dökümanda bir yere link (sıçrama) yaratır.
+
+<a href="#NAME"></a>
+Farklı bir dökümanda işaretli bir yere link (sıçrama) yaratır.
+Metni Biçemleme (text Formatting)
+
+<p></p>
+Yeni paragraf yaratır.
+
+<p align=?>
+Paragrafı sola, ortaya ya da sağa yanaşık yapar.
+
+<br>
+Yeni satıra geçer.
+
+<blockquote> </blockquote>
+Metni iki yanda boşluk bırakarak belirgin kılar.
+
+<dl></dl>
+Tanımlı liste yaratır.
+
+<dt>
+Tanımlı listedeki terimleri belirler.
+
+<dd>
+Tanımlı listedeki terimlerin tanımlarını (açıklamalarını) belirler.
+
+<ol></ol>
+Numaralı liste yaratır.
+
+<li></li>
+Numaralı ya da numarasız listedeki maddeleri belirler. Numaralı listede maddelere sırayla numara verir. Numarasız listelere isteğe göre işaret (disk, çember vb) koyar.
+
+<ul></ul>
+Sıra numarasız liste yaratır.
+
+<div align=?>...</div>
+Div ile damgalanmış bölümün sola, ortaya ya da sağa yanaşık olmasını sağlar. Genellikle, birçok paragraf içeren bölümlerin biçemlenmesinde kolaylık sağlat. Stil sayfalarında da kullanılır.
+Grafik Öğeleri
+
+<img src="name">
+Bir grafik (image) ekler.
+
+<img src="name" align=?>
+Bir image'in konuşlandırıldığı satıra göre solda, sağda, ortada, üstte ya da altta durmasını sağlar.
+
+<img src="name" border=?>
+İmage'in çerçevesinin kalınlığını belirler. 0 değeri çerçevesiz yapar.
+
+<hr>
+Yatay bir çizgi çizer.
+
+<hr size=?>
+Yatay çizginin kalınlığını belirler.
+
+<hr width=?>
+Yatay çizginin ekrana göre yatay doğrultudaki uzunluğunu belirler. Yüde orantılı belirtilebilir.
+
+<hr noshade>
+Gölgesiz yatay çizgi çizer.
+Tablolar
+
+<table></table>
+Tablo yaratır
+
+<tr></tr>
+Tablonun bir satırını yaratır.
+
+<td></td>
+Tablonun bir satırında bir hücre yaratır.
+
+<th></th>
+Tabloda kolonlara başlık yaratır. (Normal hücrede yer alır. Metni ortalar ve koyu yazar.)
+Tablo Nitelemeleri (Table Attributes)
+
+<table border=#>
+Hücrelerin kenar kalınlıklarını belirler.
+
+<table cellspacing=#>
+Hücreler arası açıklığı belirler.
+
+<table cellpadding=#>
+Hücre kenarı ile hücre içine yazılan metin arasındaki açıklığı belirler.
+
+<table width=# or %>
+Tablonun genişliğini belirler. Pixel ya da ekran genişliğinin yüzde oranı cinsinden belirtilebilir.
+
+<tr align=?> or <td align=?>
+Hücre içindeki metni yatay doğrultuda sola, ortaya ya da sağa yanaşık yazar.
+
+<tr valign=?> or <td valign=?>
+Hücre içindeki metni düşey doğrultuda alt, orta ya da üste yanaşık yazar.
+
+<td colspan=#>
+Bir hücrenin gereceği kolon sayısını belirler.
+
+<td rowspan=#>
+Bir hücrenin gereceği satır sayısını belirler.(default=1)
+
+<td nowrap>
+Bir hücredeki metnin satırlara ayrılmasını önler.
+Çerçeveler (Frames)
+
+<frameset></frameset>
+Çerçeve (frame) yaratır. İç içe çerçeve olabilir.
+
+<frameset rows="value,value">
+Bir (ana) çerçeve içinde kaç tane yatay çerçeve oluşacağını belirler. Çerçevenin yatay uzunluğu pixel, ya da ana çerçevenin genişliğinin yüzde oranıyla belirlenebilir. İlk ana çerçeve bütün ekrandır.
+
+<frameset cols="value,value">
+Bir (ana) çerçeve içinde kaç tane düşey çerçeve (kolon) oluşacağını belirler. Çerçevenin yatay uzunluğu pixel, ya da ana çerçevenin genişliğinin yüzde oranıyla belirlenebilir. İlk ana çerçeve bütün ekrandır.
+
+<frame>
+Bir çerçeve içinde bir tek çerçeve yaratır.
+
+<noframes></noframes>
+Frame'i desteklemeyen tarayıcılar için alternatif açıklama yaratır.
+Çerçeve Nitelemeleri (Frames Attributes)
+
+<frame src="URL">
+Çerçevede görüntülenecek HTML dökümanını belirler.
+
+<frame name="name">
+Çerçeveye ad verir. Böylece, başka çerçevelerin burayı hedef seçmeleri olanağı doğar.
+
+<frame marginwidth=#>
+Çerçevenin sol ve sağ kenar boşluklarını (marj) belirler. 1 den küçük olamaz.
+
+<frame marginheight=#>
+Çerçevenin alt ve üst kenar boşluklarını (marj) belirler. 1 den küçük olamaz.
+
+<frame scrolling=VALUE>
+Çerçevede kayma çubuklarının olup olmamasını belirler. "yes", "no" , "auto" değerlerini alabilir. Açık (default) değeri "auto" dur. "no" değeri kayma çubuğu koymaz.
+
+<frame noresize>
+Kullanıcının çerçeve boyutunu ayarlamasını önler.
+Formlar
+HTML yalnızca formun istemcideki görüntüsünü yaratır. Kullanıcının girdiği verilerin işlenebilmesi için, sunucuda istenen işi yapacak bir CGI scriptinin yazılmış olması gerekir.
+
+<form></form>
+Form yaratır.
+
+<select multiple name="NAME" size=?></select>
+Kayan çubuklu menu yaratır. Size nitelemesi, kaydırmadan kaç seçenek görüneceğini belirler.
+
+<option>
+Menüde bir maddeyi etkisizleştirir.
+
+<select name="NAME"></select>
+Çekme menüsü (pulldown menu) yaratır.
+<textarea name="NAME" cols=40 rows=8></textarea>
+INPUT ile yaratılan metin alanı 1024 karakterle sınırlıdır. Onun yetmeyeceği yerde bir metin alanı (TEXTAREA) yaratılabilir. Textarea sınırsız giriş sağlar. Ancak ekrandaki yeri ve boyutları ROWS ve COLUMNS parametrelerinin nitelenmesiyle (değer verilmesiyle) belirlenebilir.
+
+<input type="checkbox" name="NAME">
+Çok seçmeli menüler için seçme (işaretleme) kutucukları [checkbox] yaratır.
+
+<input type="radio" name="NAME" value="x">
+Tek seçmeli menüler için seçme (işaretleme) [radio] düğmesi yaratır.
+dd>
+
+<input type=text name="foo" size=20>
+Bir satırda text girişi yaratır. Ençok 1024 karakterlik girişin uzunluğu SIZE parametresinin nitelenmesiyle (değer verilmesi) belirlenebilir.
+
+<input type="submit" value="NAME">
+Gönder düğmesi (Submit button) yaratır.
+
+<input type="image" border=0 name="NAME" src="name.gif">
+Gönder düğmesi üzerine bir resim (image) koyar.
+
+<input type="reset">
+Silbaştan düğmesi (Reset button) koyar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

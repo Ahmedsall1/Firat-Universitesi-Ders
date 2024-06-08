@@ -1,0 +1,27 @@
+1. Sayısal Analiz Dersine Giriş (Sayısal Analizde temel kavramlar, matematiksel modelleme)
+
+2. Sayı sistemleri ve hata kavramı
+
+3. Lineer olmayan denklem sistemlerinin çözümü (Kapalı yöntemler Grafik yöntemi ve Bisection yöntemi)
+
+4. Lineer olmayan denklem sistemlerinin çözümü (Kapalı yöntemler Regula Falsi yöntemi, Açık yöntemler Fixed
+Point yöntemi)
+
+5. Lineer olmayan denklem sistemlerinin çözümü (Açık yöntemler Newton Raphson yöntemi, Secant yöntemi)
+6 Lineer denklem sistemlerinin çözümü (Doğrudan yöntemler Cramer yöntemi, Gauss Jordan yöntemi)
+
+7. Lineer denklem sistemlerinin çözümü (Sayısal yöntemler Jacobi iterasyon yöntemi, Gauss Seidel yöntemi)
+
+8. Matris işlemleri, ARA SINAV
+
+9. LU ayrıştırması
+
+10. Ara değer bulma yöntemleri (Lagrange Polinom interpolasyonu, Newton polinomları)
+
+11. Sayısal Türev (Sonlu farklar yöntemleri)
+
+12. Sayısal İntegral (Trapez yöntemi, Simpson yöntemi)
+
+13. Eğri Uydurma (En küçük kareler regresyonu, doğrusal regresyon)
+
+14. Diferansiyel denklemlerin çözümü(Taylor seri açılımı, Euler yöntemi, Runge Kutta yöntemi)

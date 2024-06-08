@@ -1,0 +1,10 @@
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\bin\Debug\vize sonrası ders bilmem kaç 3.exe.config
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\bin\Debug\vize sonrası ders bilmem kaç 3.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\bin\Debug\vize sonrası ders bilmem kaç 3.pdb
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize sonrası ders bilmem kaç 3.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize_sonrası_ders_bilmem_kaç_3.Form1.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize_sonrası_ders_bilmem_kaç_3.Properties.Resources.resources
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize sonrası ders bilmem kaç 3.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize sonrası ders bilmem kaç 3.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize sonrası ders bilmem kaç 3.exe
+C:\Users\Ömer Tekin\Desktop\kodlama dili çalışma\ileri programlama dersi\vize sonrası ders bilmem kaç 3\vize sonrası ders bilmem kaç 3\obj\Debug\vize sonrası ders bilmem kaç 3.pdb

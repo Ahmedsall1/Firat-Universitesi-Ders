@@ -1,0 +1,29 @@
+1. Birinci Mertebeden Adi Diferansiyel Denklemler ve Mühendislik Uygulamaları
+
+2. Doğrusal Diferansiyel Denklemler ve Mühendislik Uygulamaları
+
+3. Green Fonksiyonları
+
+4. Lineere Cebire Giriş
+
+5. Eş-Zamanlı Doğrusal Diferansiyel Denklemler
+
+6. Birinci mertebe adi diferansiyel denklemler: Bernoulli diferansiyel denklemleri
+
+7. Sonlu Farklar, Mekanik Sistemler ve Elektrik Devreleri
+
+8. Sonlu Farklar, Mekanik Sistemler ve Elektrik Devreleri, ARA SINAV
+
+9. Fourier Serileri ve İntegrali, Laplace Dönüşümü
+11 / 22
+
+10. Kısmi Diferansiyel Denklemler, Denklemlerin Türetilmesi
+
+11. Dalga Denkleminin D’Alembert Çözümü, Değişkenlerine ayırma Metodu, Kısmi Diferansiyel Denklemlerin Sayısal
+Çözümü
+
+12. Bessel Fonksiyonları ve Legendre Polinomları, Vektör Uzayları ve Lineer Dönüşümler
+
+13. Vektör Analizi, Varyasyon Hesabı
+
+14. Kompleks Değişkenli Analitik Fonksiyonlar

@@ -1,0 +1,103 @@
+	MESLEKİ İNGİLİZCE-I ÇALIŞMA SORULARI
+
+	Choose the correct or best alternative in the following:
+
+Q.1 The most important feature of spiral model is
+(A) requirement analysis. 
+#(B) risk management.
+(C) quality management. 
+(D) configuration management.
+
+
+Q.2 If every requirement stated in the Software Requirement Specification (SRS) has
+only one interpretation, SRS is said to be
+(A) correct. 
+#(B) unambiguous.
+ (C) consistent.
+ (D) verifiable.
+
+
+Q.3 The model in which the requirements are implemented by category is
+#(A) Evolutionary Development Model
+ (B) Waterfall Model
+(C) Prototyping 
+(D) Iterative Enhancement Model
+
+
+Q.4 A COCOMO model is
+(A) Common Cost Estimation Model. 
+#(B) Constructive Cost Estimation Model.
+(C) Complete Cost Estimation Model. 
+(D) Comprehensive Cost Estimation Model.
+
+
+Q.5 In the spiral model 'risk analysis' is performed
+(A) In the first loop
+ (B) in the first and second loop
+ #(C) In every loop 
+(D) before using spiral model
+
+
+Q.6 For a well understood data processing application it is best to use
+#(A) The waterfall model
+ (B) prototyping model 
+(C) the evolutionary model
+ (D) the spiral model
+
+Q.7 The feature of the object oriented paradigm which helps code reuse is
+(A) object. 
+(B) class.
+#(C) inheritance. 
+(D) aggregation.
+
+Q.8 Alpha and Beta Testing are forms of
+#(A) Acceptance testing
+ (B) Integration testing
+ (C) System Testing
+ (D) Unit testing
+
+Q.9 Structured charts are a product of
+(A) requirements gathering
+ (B) requirements analysis 
+#(C) design
+ (D) coding
+
+Q.10 The main purpose of integration testing is to find
+(A) design errors
+ (B) analysis errors
+ (C) procedure errors
+# (D) interface errors
+
+Q.11 Software consists of
+(A) Set of instructions + operating procedures
+ #(B) Programs + documentation + operating procedures
+(C) Programs + hardware manuals 
+(D) Set of programs
+
+Q.12 Which is the most important feature of spiral model?
+(A) Quality management
+# (B) Risk management
+(C) Performance management
+ (D) Efficiency management
+
+Q.13 Which phase is not available in software life cycle?
+(A) Coding
+ (B) Testing 
+#(C) Maintenance
+ (D) Abstraction
+
+Q.14 What are the three generic phases of software engineering?
+#(A) Definition, development, support
+ (B) What, how, where
+(C) Programming, debugging, maintenance 
+(D) Analysis, design, testing
+
+Q.15 What is the normal order of activities in which software testing is organized?
+#(A) unit, integration, system, validation
+ (B) system, integration, unit, validation
+(C) unit, integration, validation, system 
+(D) none of the above
+
+
+
+

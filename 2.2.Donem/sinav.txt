@@ -1,0 +1,95 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+struct Queue {
+    int front, rear, size;
+    unsigned capacity;
+    int* array;
+};
+
+
+struct Queue* createQueue(unsigned capacity) {
+    struct Queue* queue = (struct Queue*)malloc(sizeof(struct Queue));
+    queue->capacity = capacity;
+    queue->front = queue->size = 0;
+    queue->rear = capacity - 1;
+    queue->array = (int*)malloc(queue->capacity * sizeof(int));
+    return queue;
+}
+
+
+void enqueue(struct Queue* queue, int item) {
+    if (queue->size == queue->capacity) {
+        printf("Kuyruk dolu, eleman eklenemiyor.\n");
+        return;
+    }
+    queue->rear = (queue->rear + 1) % queue->capacity;
+    queue->array[queue->rear] = item;
+    queue->size = queue->size + 1;
+    printf("%d kuyruga eklendi.\n", item);
+}
+
+
+int dequeue(struct Queue* queue) {
+    if (queue->size == 0) {
+        printf("Kuyruk bos, eleman çikarilamiyor.\n");
+        return -1;
+    }
+    int item = queue->array[queue->front];
+    queue->front = (queue->front + 1) % queue->capacity;
+    queue->size = queue->size - 1;
+    return item;
+}
+
+
+void displayQueue(struct Queue* queue) {
+    if (queue->size == 0) {
+        printf("Kuyruk bos.\n");
+        return;
+    }
+    printf("Kuyruk: ");
+    int i;
+    for (i = 0; i < queue->size; i++) {
+        printf("%d ", queue->array[(queue->front + i) % queue->capacity]);
+    }
+    printf("\n");
+}
+
+int main() {
+    int secim, eleman;
+    struct Queue* queue = createQueue(100);
+
+    while (1) {
+        printf("1.Enqueue islemi\n");
+        printf("2.Dequeue islemi\n");
+        printf("3.Kuyrugu görüntüle\n");
+        printf("4.Çikis\n");
+        printf("Hangi islemi yapmak istiyorsunuz: ");
+        scanf("%d", &secim);
+
+        switch (secim) {
+            case 1:
+                printf("Kuyruga eleman ekle: ");
+                scanf("%d", &eleman);
+                enqueue(queue, eleman);
+                break;
+            case 2:
+                eleman = dequeue(queue);
+                if (eleman != -1) {
+                    printf("%d kuyruktan çikarildi.\n", eleman);
+                }
+                break;
+            case 3:
+                displayQueue(queue);
+                break;
+            case 4:
+                printf("Programdan çikiliyor.\n");
+                exit(0);
+            default:
+                printf("Geçersiz seçim.\n");
+                break;
+        }
+    }
+    return 0;
+ }

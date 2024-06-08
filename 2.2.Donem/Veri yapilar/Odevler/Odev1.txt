@@ -1,0 +1,49 @@
+#include <stdio.h>
+	//1- Dışarıdan girilen NxN boyutlu bir kare matrisin simetrik olup 	//olmadığını bulan c programı.
+int main() {
+    
+    int N;
+    
+    printf("Dizinin buyutu giriniz: ");
+    scanf("%d",&N);
+    
+    int matrix[N][N];
+    
+    int i,j;
+    for( i=0;i<N;i++){
+        
+        for( j=0;j<N;j++){
+            
+            printf(" [%d][%d] sayini giriniz: ",i,j);
+            scanf("%d",&matrix[i][j]);
+        }
+        printf("\n");
+    }
+    
+    int dogru=0,satir=0,tek_cift;
+    
+    if(N%2==0)
+        tek_cift=N/2;
+    else
+        tek_cift=(N/2)+1;
+        int k;
+    for(i=0;i<N;i++){
+        
+        dogru=0;
+        for( j=0 ,k=N-1 ;j<=tek_cift ,k>=tek_cift ;j++,k--){
+            
+            if(matrix[i][j]==matrix[i][k])
+                dogru++;
+        }
+        if(dogru==N/2)
+            satir++;
+    }
+    
+    if(satir==N)
+        printf("dizi simetriktir ;");
+    else
+        printf("dizi simetrik degildir ;");
+
+    return 0;
+}
+
