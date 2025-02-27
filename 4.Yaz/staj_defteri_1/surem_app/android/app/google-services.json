@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023807104978",
+    "project_id": "surem-plus",
+    "storage_bucket": "surem-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023807104978:android:e8816998613277d9df0a0b",
+        "android_client_info": {
+          "package_name": "com.example.surem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxm31oPk4zCpmptBPggF_ojDW3w05Adsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

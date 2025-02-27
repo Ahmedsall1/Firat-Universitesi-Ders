@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-Ticaret Sitesi</title>
+</head>
+<body>
+    <h1>Ürünler</h1>
+    <ul>
+        {% for urun in urunler %}
+        <li>
+            {{ urun.name }} - {{ urun.fiyat }} TL
+            <a href="{{ url_for('sepete_ekle', urun_id=urun.id) }}">Sepete Ekle</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('odeme') }}">Ödeme Yap</a>
+</body>
+</html>

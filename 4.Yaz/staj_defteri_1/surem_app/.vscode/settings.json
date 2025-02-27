@@ -1,0 +1,10 @@
+{
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "editorRuler.foreground": "#cccccc",
+        "editorIndentGuide.background1": "#333347",
+        "editorIndentGuide.activeBackground1": "#aaaaaa"
+    }
+}

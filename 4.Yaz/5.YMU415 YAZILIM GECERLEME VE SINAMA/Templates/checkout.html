@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ödeme Sayfası</title>
+</head>
+<body>
+    <h1>Sepetiniz</h1>
+    <ul>
+        {% for urun in sepet %}
+        <li>{{ urun.name }} - {{ urun.fiyat }} TL</li>
+        {% endfor %}
+    </ul>
+    <h2>Toplam: {{ toplam }} TL</h2>
+    <button>Ödeme Yap</button>
+</body>
+</html>
